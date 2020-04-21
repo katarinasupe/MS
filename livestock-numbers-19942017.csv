@@ -1,0 +1,2076 @@
+﻿field_1,year,region,livestock_type,livestock_numbers
+1,1994,Northland,dairy,356561
+2,1995,Northland,dairy,394986
+3,1996,Northland,dairy,402230
+4,1997,Northland,dairy,
+5,1998,Northland,dairy,
+6,1999,Northland,dairy,386640
+7,2000,Northland,dairy,
+8,2001,Northland,dairy,
+9,2002,Northland,dairy,405387
+10,2003,Northland,dairy,374019
+11,2004,Northland,dairy,399064
+12,2005,Northland,dairy,343195
+13,2006,Northland,dairy,378152
+14,2007,Northland,dairy,367183
+15,2008,Northland,dairy,392193
+16,2009,Northland,dairy,392577
+17,2010,Northland,dairy,353314
+18,2011,Northland,dairy,384636
+19,2012,Northland,dairy,397764
+20,2013,Northland,dairy,383057
+21,2014,Northland,dairy,352834
+22,2015,Northland,dairy,380616
+23,2016,Northland,dairy,404415
+24,1994,Auckland,dairy,168754
+25,1995,Auckland,dairy,175952
+26,1996,Auckland,dairy,162334
+27,1997,Auckland,dairy,
+28,1998,Auckland,dairy,
+29,1999,Auckland,dairy,131967
+30,2000,Auckland,dairy,
+31,2001,Auckland,dairy,
+32,2002,Auckland,dairy,150089
+33,2003,Auckland,dairy,167559
+34,2004,Auckland,dairy,141618
+35,2005,Auckland,dairy,122015
+36,2006,Auckland,dairy,122234
+37,2007,Auckland,dairy,113344
+38,2008,Auckland,dairy,115883
+39,2009,Auckland,dairy,94391
+40,2010,Auckland,dairy,98416
+41,2011,Auckland,dairy,129768
+42,2012,Auckland,dairy,117281
+43,2013,Auckland,dairy,110288
+44,2014,Auckland,dairy,100086
+45,2015,Auckland,dairy,124668
+46,2016,Auckland,dairy,165417
+47,1994,Waikato,dairy,1437630
+48,1995,Waikato,dairy,1523259
+49,1996,Waikato,dairy,1553004
+50,1997,Waikato,dairy,
+51,1998,Waikato,dairy,
+52,1999,Waikato,dairy,1503208
+53,2000,Waikato,dairy,
+54,2001,Waikato,dairy,
+55,2002,Waikato,dairy,1663446
+56,2003,Waikato,dairy,1679882
+57,2004,Waikato,dairy,1685661
+58,2005,Waikato,dairy,1726323
+59,2006,Waikato,dairy,1735353
+60,2007,Waikato,dairy,1669472
+61,2008,Waikato,dairy,1717421
+62,2009,Waikato,dairy,1786579
+63,2010,Waikato,dairy,1757624
+64,2011,Waikato,dairy,1795785
+65,2012,Waikato,dairy,1832380
+66,2013,Waikato,dairy,1837858
+67,2014,Waikato,dairy,1914483
+68,2015,Waikato,dairy,1761949
+69,2016,Waikato,dairy,1855170
+70,1994,Bay of Plenty,dairy,285752
+71,1995,Bay of Plenty,dairy,306655
+72,1996,Bay of Plenty,dairy,318634
+73,1997,Bay of Plenty,dairy,
+74,1998,Bay of Plenty,dairy,
+75,1999,Bay of Plenty,dairy,346255
+76,2000,Bay of Plenty,dairy,
+77,2001,Bay of Plenty,dairy,
+78,2002,Bay of Plenty,dairy,331410
+79,2003,Bay of Plenty,dairy,326885
+80,2004,Bay of Plenty,dairy,320923
+81,2005,Bay of Plenty,dairy,329776
+82,2006,Bay of Plenty,dairy,300509
+83,2007,Bay of Plenty,dairy,299013
+84,2008,Bay of Plenty,dairy,315183
+85,2009,Bay of Plenty,dairy,299696
+86,2010,Bay of Plenty,dairy,306884
+87,2011,Bay of Plenty,dairy,331536
+88,2012,Bay of Plenty,dairy,312326
+89,2013,Bay of Plenty,dairy,314679
+90,2014,Bay of Plenty,dairy,333375
+91,2015,Bay of Plenty,dairy,357039
+92,2016,Bay of Plenty,dairy,339170
+93,1994,Gisborne,dairy,6226
+94,1995,Gisborne,dairy,7022
+95,1996,Gisborne,dairy,9151
+96,1997,Gisborne,dairy,
+97,1998,Gisborne,dairy,
+98,1999,Gisborne,dairy,5765
+99,2000,Gisborne,dairy,
+100,2001,Gisborne,dairy,
+101,2002,Gisborne,dairy,12533
+102,2003,Gisborne,dairy,6969
+103,2004,Gisborne,dairy,
+104,2005,Gisborne,dairy,
+105,2006,Gisborne,dairy,
+106,2007,Gisborne,dairy,7891
+107,2008,Gisborne,dairy,16432
+108,2009,Gisborne,dairy,
+109,2010,Gisborne,dairy,10535
+110,2011,Gisborne,dairy,17806
+111,2012,Gisborne,dairy,17095
+112,2013,Gisborne,dairy,19332
+113,2014,Gisborne,dairy,15153
+114,2015,Gisborne,dairy,10341
+115,2016,Gisborne,dairy,11950
+116,1994,Hawke's Bay,dairy,31707
+117,1995,Hawke's Bay,dairy,30955
+118,1996,Hawke's Bay,dairy,35898
+119,1997,Hawke's Bay,dairy,
+120,1998,Hawke's Bay,dairy,
+121,1999,Hawke's Bay,dairy,44852
+122,2000,Hawke's Bay,dairy,
+123,2001,Hawke's Bay,dairy,
+124,2002,Hawke's Bay,dairy,88982
+125,2003,Hawke's Bay,dairy,92852
+126,2004,Hawke's Bay,dairy,91786
+127,2005,Hawke's Bay,dairy,82772
+128,2006,Hawke's Bay,dairy,79419
+129,2007,Hawke's Bay,dairy,80200
+130,2008,Hawke's Bay,dairy,99931
+131,2009,Hawke's Bay,dairy,93871
+132,2010,Hawke's Bay,dairy,113465
+133,2011,Hawke's Bay,dairy,90655
+134,2012,Hawke's Bay,dairy,93047
+135,2013,Hawke's Bay,dairy,95098
+136,2014,Hawke's Bay,dairy,98100
+137,2015,Hawke's Bay,dairy,81738
+138,2016,Hawke's Bay,dairy,90854
+139,1994,Taranaki,dairy,599083
+140,1995,Taranaki,dairy,618543
+141,1996,Taranaki,dairy,613697
+142,1997,Taranaki,dairy,
+143,1998,Taranaki,dairy,
+144,1999,Taranaki,dairy,608315
+145,2000,Taranaki,dairy,
+146,2001,Taranaki,dairy,
+147,2002,Taranaki,dairy,651700
+148,2003,Taranaki,dairy,623459
+149,2004,Taranaki,dairy,664922
+150,2005,Taranaki,dairy,615592
+151,2006,Taranaki,dairy,598667
+152,2007,Taranaki,dairy,589573
+153,2008,Taranaki,dairy,571505
+154,2009,Taranaki,dairy,607436
+155,2010,Taranaki,dairy,645891
+156,2011,Taranaki,dairy,625315
+157,2012,Taranaki,dairy,604383
+158,2013,Taranaki,dairy,595014
+159,2014,Taranaki,dairy,585948
+160,2015,Taranaki,dairy,541931
+161,2016,Taranaki,dairy,555532
+162,1994,Manawatu-Whanganui,dairy,308022
+163,1995,Manawatu-Whanganui,dairy,324097
+164,1996,Manawatu-Whanganui,dairy,324459
+165,1997,Manawatu-Whanganui,dairy,
+166,1998,Manawatu-Whanganui,dairy,
+167,1999,Manawatu-Whanganui,dairy,329325
+168,2000,Manawatu-Whanganui,dairy,
+169,2001,Manawatu-Whanganui,dairy,
+170,2002,Manawatu-Whanganui,dairy,416802
+171,2003,Manawatu-Whanganui,dairy,408986
+172,2004,Manawatu-Whanganui,dairy,381464
+173,2005,Manawatu-Whanganui,dairy,410765
+174,2006,Manawatu-Whanganui,dairy,390125
+175,2007,Manawatu-Whanganui,dairy,393453
+176,2008,Manawatu-Whanganui,dairy,425484
+177,2009,Manawatu-Whanganui,dairy,424880
+178,2010,Manawatu-Whanganui,dairy,478514
+179,2011,Manawatu-Whanganui,dairy,472992
+180,2012,Manawatu-Whanganui,dairy,475466
+181,2013,Manawatu-Whanganui,dairy,448030
+182,2014,Manawatu-Whanganui,dairy,481249
+183,2015,Manawatu-Whanganui,dairy,451421
+184,2016,Manawatu-Whanganui,dairy,524295
+185,1994,Wellington,dairy,83935
+186,1995,Wellington,dairy,92376
+187,1996,Wellington,dairy,93363
+188,1997,Wellington,dairy,
+189,1998,Wellington,dairy,
+190,1999,Wellington,dairy,97284
+191,2000,Wellington,dairy,
+192,2001,Wellington,dairy,
+193,2002,Wellington,dairy,111180
+194,2003,Wellington,dairy,111973
+195,2004,Wellington,dairy,95020
+196,2005,Wellington,dairy,95274
+197,2006,Wellington,dairy,103290
+198,2007,Wellington,dairy,92787
+199,2008,Wellington,dairy,103525
+200,2009,Wellington,dairy,85331
+201,2010,Wellington,dairy,92375
+202,2011,Wellington,dairy,114120
+203,2012,Wellington,dairy,108174
+204,2013,Wellington,dairy,108647
+205,2014,Wellington,dairy,97599
+206,2015,Wellington,dairy,109992
+207,2016,Wellington,dairy,110543
+208,1994,Tasman,dairy,49092
+209,1995,Tasman,dairy,52463
+210,1996,Tasman,dairy,54422
+211,1997,Tasman,dairy,
+212,1998,Tasman,dairy,
+213,1999,Tasman,dairy,74216
+214,2000,Tasman,dairy,
+215,2001,Tasman,dairy,
+216,2002,Tasman,dairy,67473
+217,2003,Tasman,dairy,71206
+218,2004,Tasman,dairy,70848
+219,2005,Tasman,dairy,67535
+220,2006,Tasman,dairy,65994
+221,2007,Tasman,dairy,63849
+222,2008,Tasman,dairy,70689
+223,2009,Tasman,dairy,86531
+224,2010,Tasman,dairy,71088
+225,2011,Tasman,dairy,72803
+226,2012,Tasman,dairy,71956
+227,2013,Tasman,dairy,76283
+228,2014,Tasman,dairy,77972
+229,2015,Tasman,dairy,77863
+230,2016,Tasman,dairy,60980
+231,1994,Nelson,dairy,1412
+232,1995,Nelson,dairy,
+233,1996,Nelson,dairy,
+234,1997,Nelson,dairy,
+235,1998,Nelson,dairy,
+236,1999,Nelson,dairy,
+237,2000,Nelson,dairy,
+238,2001,Nelson,dairy,
+239,2002,Nelson,dairy,
+240,2003,Nelson,dairy,
+241,2004,Nelson,dairy,
+242,2005,Nelson,dairy,
+243,2006,Nelson,dairy,
+244,2007,Nelson,dairy,1862
+245,2008,Nelson,dairy,
+246,2009,Nelson,dairy,
+247,2010,Nelson,dairy,
+248,2011,Nelson,dairy,
+249,2012,Nelson,dairy,
+250,2013,Nelson,dairy,1259
+251,2014,Nelson,dairy,
+252,2015,Nelson,dairy,8459
+253,2016,Nelson,dairy,2330
+254,1994,Marlborough,dairy,22648
+255,1995,Marlborough,dairy,24035
+256,1996,Marlborough,dairy,24935
+257,1997,Marlborough,dairy,
+258,1998,Marlborough,dairy,
+259,1999,Marlborough,dairy,33018
+260,2000,Marlborough,dairy,
+261,2001,Marlborough,dairy,
+262,2002,Marlborough,dairy,32526
+263,2003,Marlborough,dairy,28233
+264,2004,Marlborough,dairy,26831
+265,2005,Marlborough,dairy,30604
+266,2006,Marlborough,dairy,25783
+267,2007,Marlborough,dairy,23899
+268,2008,Marlborough,dairy,33544
+269,2009,Marlborough,dairy,
+270,2010,Marlborough,dairy,25980
+271,2011,Marlborough,dairy,30012
+272,2012,Marlborough,dairy,33218
+273,2013,Marlborough,dairy,27811
+274,2014,Marlborough,dairy,40945
+275,2015,Marlborough,dairy,27040
+276,2016,Marlborough,dairy,25148
+277,1994,West Coast,dairy,79251
+278,1995,West Coast,dairy,85156
+279,1996,West Coast,dairy,91022
+280,1997,West Coast,dairy,
+281,1998,West Coast,dairy,
+282,1999,West Coast,dairy,120992
+283,2000,West Coast,dairy,
+284,2001,West Coast,dairy,
+285,2002,West Coast,dairy,124640
+286,2003,West Coast,dairy,122572
+287,2004,West Coast,dairy,141401
+288,2005,West Coast,dairy,142370
+289,2006,West Coast,dairy,148730
+290,2007,West Coast,dairy,152481
+291,2008,West Coast,dairy,152869
+292,2009,West Coast,dairy,179416
+293,2010,West Coast,dairy,160791
+294,2011,West Coast,dairy,179308
+295,2012,West Coast,dairy,173651
+296,2013,West Coast,dairy,178907
+297,2014,West Coast,dairy,188417
+298,2015,West Coast,dairy,182298
+299,2016,West Coast,dairy,180956
+300,1994,Canterbury,dairy,212492
+301,1995,Canterbury,dairy,239138
+302,1996,Canterbury,dairy,246230
+303,1997,Canterbury,dairy,
+304,1998,Canterbury,dairy,
+305,1999,Canterbury,dairy,275305
+306,2000,Canterbury,dairy,
+307,2001,Canterbury,dairy,
+308,2002,Canterbury,dairy,542610
+309,2003,Canterbury,dairy,556339
+310,2004,Canterbury,dairy,599643
+311,2005,Canterbury,dairy,604756
+312,2006,Canterbury,dairy,655676
+313,2007,Canterbury,dairy,754937
+314,2008,Canterbury,dairy,831666
+315,2009,Canterbury,dairy,918480
+316,2010,Canterbury,dairy,938453
+317,2011,Canterbury,dairy,1006742
+318,2012,Canterbury,dairy,1200293
+319,2013,Canterbury,dairy,1304618
+320,2014,Canterbury,dairy,1333220
+321,2015,Canterbury,dairy,1253993
+322,2016,Canterbury,dairy,1271057
+323,1994,Otago,dairy,82173
+324,1995,Otago,dairy,87768
+325,1996,Otago,dairy,96695
+326,1997,Otago,dairy,
+327,1998,Otago,dairy,
+328,1999,Otago,dairy,124690
+329,2000,Otago,dairy,
+330,2001,Otago,dairy,
+331,2002,Otago,dairy,204802
+332,2003,Otago,dairy,181484
+333,2004,Otago,dairy,174253
+334,2005,Otago,dairy,161616
+335,2006,Otago,dairy,180734
+336,2007,Otago,dairy,218264
+337,2008,Otago,dairy,232905
+338,2009,Otago,dairy,257049
+339,2010,Otago,dairy,262417
+340,2011,Otago,dairy,307817
+341,2012,Otago,dairy,336278
+342,2013,Otago,dairy,367292
+343,2014,Otago,dairy,376743
+344,2015,Otago,dairy,384979
+345,2016,Otago,dairy,312087
+346,1994,Southland,dairy,114378
+347,1995,Southland,dairy,125806
+348,1996,Southland,dairy,137552
+349,1997,Southland,dairy,
+350,1998,Southland,dairy,
+351,1999,Southland,dairy,232966
+352,2000,Southland,dairy,
+353,2001,Southland,dairy,
+354,2002,Southland,dairy,356220
+355,2003,Southland,dairy,347793
+356,2004,Southland,dairy,349021
+357,2005,Southland,dairy,348075
+358,2006,Southland,dairy,375911
+359,2007,Southland,dairy,432642
+360,2008,Southland,dairy,495971
+361,2009,Southland,dairy,589184
+362,2010,Southland,dairy,599198
+363,2011,Southland,dairy,614648
+364,2012,Southland,dairy,670581
+365,2013,Southland,dairy,615428
+366,2014,Southland,dairy,700039
+367,2015,Southland,dairy,731209
+368,2016,Southland,dairy,708895
+369,1994,Chatham Islands,dairy,68
+370,1995,Chatham Islands,dairy,
+371,1996,Chatham Islands,dairy,
+372,1997,Chatham Islands,dairy,
+373,1998,Chatham Islands,dairy,
+374,1999,Chatham Islands,dairy,
+375,2000,Chatham Islands,dairy,
+376,2001,Chatham Islands,dairy,
+377,2002,Chatham Islands,dairy,
+378,2003,Chatham Islands,dairy,
+379,2004,Chatham Islands,dairy,
+380,2005,Chatham Islands,dairy,
+381,2006,Chatham Islands,dairy,
+382,2007,Chatham Islands,dairy,0
+383,2008,Chatham Islands,dairy,
+384,2009,Chatham Islands,dairy,0
+385,2010,Chatham Islands,dairy,
+386,2011,Chatham Islands,dairy,
+387,2012,Chatham Islands,dairy,
+388,2013,Chatham Islands,dairy,0
+389,2014,Chatham Islands,dairy,0
+390,2015,Chatham Islands,dairy,0
+391,2016,Chatham Islands,dairy,0
+392,1994,Northland,beef,574072
+393,1995,Northland,beef,588005
+394,1996,Northland,beef,544411
+395,1997,Northland,beef,
+396,1998,Northland,beef,
+397,1999,Northland,beef,543395
+398,2000,Northland,beef,
+399,2001,Northland,beef,
+400,2002,Northland,beef,468432
+401,2003,Northland,beef,478201
+402,2004,Northland,beef,451849
+403,2005,Northland,beef,469262
+404,2006,Northland,beef,490788
+405,2007,Northland,beef,495833
+406,2008,Northland,beef,507540
+407,2009,Northland,beef,485231
+408,2010,Northland,beef,465169
+409,2011,Northland,beef,402434
+410,2012,Northland,beef,380719
+411,2013,Northland,beef,396376
+412,2014,Northland,beef,349850
+413,2015,Northland,beef,354569
+414,2016,Northland,beef,356823
+415,1994,Auckland,beef,213739
+416,1995,Auckland,beef,219658
+417,1996,Auckland,beef,184191
+418,1997,Auckland,beef,
+419,1998,Auckland,beef,
+420,1999,Auckland,beef,178716
+421,2000,Auckland,beef,
+422,2001,Auckland,beef,
+423,2002,Auckland,beef,172348
+424,2003,Auckland,beef,180066
+425,2004,Auckland,beef,166039
+426,2005,Auckland,beef,167868
+427,2006,Auckland,beef,147748
+428,2007,Auckland,beef,156787
+429,2008,Auckland,beef,143366
+430,2009,Auckland,beef,135008
+431,2010,Auckland,beef,133998
+432,2011,Auckland,beef,120337
+433,2012,Auckland,beef,117458
+434,2013,Auckland,beef,115826
+435,2014,Auckland,beef,119267
+436,2015,Auckland,beef,111292
+437,2016,Auckland,beef,121690
+438,1994,Waikato,beef,869939
+439,1995,Waikato,beef,864223
+440,1996,Waikato,beef,771586
+441,1997,Waikato,beef,
+442,1998,Waikato,beef,
+443,1999,Waikato,beef,679406
+444,2000,Waikato,beef,
+445,2001,Waikato,beef,
+446,2002,Waikato,beef,666884
+447,2003,Waikato,beef,696233
+448,2004,Waikato,beef,653108
+449,2005,Waikato,beef,676599
+450,2006,Waikato,beef,661261
+451,2007,Waikato,beef,676584
+452,2008,Waikato,beef,576461
+453,2009,Waikato,beef,598002
+454,2010,Waikato,beef,535350
+455,2011,Waikato,beef,515358
+456,2012,Waikato,beef,505869
+457,2013,Waikato,beef,501614
+458,2014,Waikato,beef,469331
+459,2015,Waikato,beef,463518
+460,2016,Waikato,beef,498662
+461,1994,Bay of Plenty,beef,164806
+462,1995,Bay of Plenty,beef,167108
+463,1996,Bay of Plenty,beef,150853
+464,1997,Bay of Plenty,beef,
+465,1998,Bay of Plenty,beef,
+466,1999,Bay of Plenty,beef,119084
+467,2000,Bay of Plenty,beef,
+468,2001,Bay of Plenty,beef,
+469,2002,Bay of Plenty,beef,134815
+470,2003,Bay of Plenty,beef,125305
+471,2004,Bay of Plenty,beef,116729
+472,2005,Bay of Plenty,beef,108344
+473,2006,Bay of Plenty,beef,117435
+474,2007,Bay of Plenty,beef,119743
+475,2008,Bay of Plenty,beef,102682
+476,2009,Bay of Plenty,beef,109541
+477,2010,Bay of Plenty,beef,82840
+478,2011,Bay of Plenty,beef,83793
+479,2012,Bay of Plenty,beef,93357
+480,2013,Bay of Plenty,beef,92984
+481,2014,Bay of Plenty,beef,87783
+482,2015,Bay of Plenty,beef,90768
+483,2016,Bay of Plenty,beef,92583
+484,1994,Gisborne,beef,351384
+485,1995,Gisborne,beef,363858
+486,1996,Gisborne,beef,363676
+487,1997,Gisborne,beef,
+488,1998,Gisborne,beef,
+489,1999,Gisborne,beef,280676
+490,2000,Gisborne,beef,
+491,2001,Gisborne,beef,
+492,2002,Gisborne,beef,309823
+493,2003,Gisborne,beef,349913
+494,2004,Gisborne,beef,341676
+495,2005,Gisborne,beef,300670
+496,2006,Gisborne,beef,305050
+497,2007,Gisborne,beef,287296
+498,2008,Gisborne,beef,287079
+499,2009,Gisborne,beef,249657
+500,2010,Gisborne,beef,262073
+501,2011,Gisborne,beef,272017
+502,2012,Gisborne,beef,267599
+503,2013,Gisborne,beef,260456
+504,2014,Gisborne,beef,277484
+505,2015,Gisborne,beef,244826
+506,2016,Gisborne,beef,243273
+507,1994,Hawke's Bay,beef,522767
+508,1995,Hawke's Bay,beef,528187
+509,1996,Hawke's Bay,beef,523865
+510,1997,Hawke's Bay,beef,
+511,1998,Hawke's Bay,beef,
+512,1999,Hawke's Bay,beef,542003
+513,2000,Hawke's Bay,beef,
+514,2001,Hawke's Bay,beef,
+515,2002,Hawke's Bay,beef,555989
+516,2003,Hawke's Bay,beef,574403
+517,2004,Hawke's Bay,beef,612870
+518,2005,Hawke's Bay,beef,528513
+519,2006,Hawke's Bay,beef,528809
+520,2007,Hawke's Bay,beef,438366
+521,2008,Hawke's Bay,beef,493393
+522,2009,Hawke's Bay,beef,436207
+523,2010,Hawke's Bay,beef,454204
+524,2011,Hawke's Bay,beef,488087
+525,2012,Hawke's Bay,beef,471010
+526,2013,Hawke's Bay,beef,433768
+527,2014,Hawke's Bay,beef,441575
+528,2015,Hawke's Bay,beef,441919
+529,2016,Hawke's Bay,beef,434837
+530,1994,Taranaki,beef,172784
+531,1995,Taranaki,beef,168260
+532,1996,Taranaki,beef,141753
+533,1997,Taranaki,beef,
+534,1998,Taranaki,beef,
+535,1999,Taranaki,beef,122966
+536,2000,Taranaki,beef,
+537,2001,Taranaki,beef,
+538,2002,Taranaki,beef,127218
+539,2003,Taranaki,beef,121184
+540,2004,Taranaki,beef,122957
+541,2005,Taranaki,beef,130935
+542,2006,Taranaki,beef,129368
+543,2007,Taranaki,beef,136715
+544,2008,Taranaki,beef,132092
+545,2009,Taranaki,beef,126336
+546,2010,Taranaki,beef,133687
+547,2011,Taranaki,beef,118632
+548,2012,Taranaki,beef,103546
+549,2013,Taranaki,beef,118526
+550,2014,Taranaki,beef,129775
+551,2015,Taranaki,beef,128274
+552,2016,Taranaki,beef,106619
+553,1994,Manawatu-Whanganui,beef,824881
+554,1995,Manawatu-Whanganui,beef,857170
+555,1996,Manawatu-Whanganui,beef,782984
+556,1997,Manawatu-Whanganui,beef,
+557,1998,Manawatu-Whanganui,beef,
+558,1999,Manawatu-Whanganui,beef,751898
+559,2000,Manawatu-Whanganui,beef,
+560,2001,Manawatu-Whanganui,beef,
+561,2002,Manawatu-Whanganui,beef,726306
+562,2003,Manawatu-Whanganui,beef,699264
+563,2004,Manawatu-Whanganui,beef,641607
+564,2005,Manawatu-Whanganui,beef,696501
+565,2006,Manawatu-Whanganui,beef,701871
+566,2007,Manawatu-Whanganui,beef,680960
+567,2008,Manawatu-Whanganui,beef,583129
+568,2009,Manawatu-Whanganui,beef,609701
+569,2010,Manawatu-Whanganui,beef,626533
+570,2011,Manawatu-Whanganui,beef,593632
+571,2012,Manawatu-Whanganui,beef,579565
+572,2013,Manawatu-Whanganui,beef,570144
+573,2014,Manawatu-Whanganui,beef,580988
+574,2015,Manawatu-Whanganui,beef,567333
+575,2016,Manawatu-Whanganui,beef,543526
+576,1994,Wellington,beef,212679
+577,1995,Wellington,beef,218939
+578,1996,Wellington,beef,201807
+579,1997,Wellington,beef,
+580,1998,Wellington,beef,
+581,1999,Wellington,beef,181889
+582,2000,Wellington,beef,
+583,2001,Wellington,beef,
+584,2002,Wellington,beef,181320
+585,2003,Wellington,beef,176290
+586,2004,Wellington,beef,174206
+587,2005,Wellington,beef,171035
+588,2006,Wellington,beef,176204
+589,2007,Wellington,beef,155910
+590,2008,Wellington,beef,140381
+591,2009,Wellington,beef,146794
+592,2010,Wellington,beef,143398
+593,2011,Wellington,beef,150561
+594,2012,Wellington,beef,140420
+595,2013,Wellington,beef,131471
+596,2014,Wellington,beef,148369
+597,2015,Wellington,beef,121431
+598,2016,Wellington,beef,110801
+599,1994,Tasman,beef,64453
+600,1995,Tasman,beef,64896
+601,1996,Tasman,beef,60432
+602,1997,Tasman,beef,
+603,1998,Tasman,beef,
+604,1999,Tasman,beef,57322
+605,2000,Tasman,beef,
+606,2001,Tasman,beef,
+607,2002,Tasman,beef,49032
+608,2003,Tasman,beef,56155
+609,2004,Tasman,beef,46223
+610,2005,Tasman,beef,45222
+611,2006,Tasman,beef,45759
+612,2007,Tasman,beef,51428
+613,2008,Tasman,beef,49869
+614,2009,Tasman,beef,59543
+615,2010,Tasman,beef,49783
+616,2011,Tasman,beef,46355
+617,2012,Tasman,beef,40149
+618,2013,Tasman,beef,42268
+619,2014,Tasman,beef,38788
+620,2015,Tasman,beef,41531
+621,2016,Tasman,beef,36642
+622,1994,Nelson,beef,1891
+623,1995,Nelson,beef,2162
+624,1996,Nelson,beef,
+625,1997,Nelson,beef,
+626,1998,Nelson,beef,
+627,1999,Nelson,beef,1844
+628,2000,Nelson,beef,
+629,2001,Nelson,beef,
+630,2002,Nelson,beef,2642
+631,2003,Nelson,beef,
+632,2004,Nelson,beef,3605
+633,2005,Nelson,beef,3665
+634,2006,Nelson,beef,2968
+635,2007,Nelson,beef,1298
+636,2008,Nelson,beef,1522
+637,2009,Nelson,beef,
+638,2010,Nelson,beef,1471
+639,2011,Nelson,beef,
+640,2012,Nelson,beef,
+641,2013,Nelson,beef,1206
+642,2014,Nelson,beef,1529
+643,2015,Nelson,beef,2490
+644,2016,Nelson,beef,1692
+645,1994,Marlborough,beef,74456
+646,1995,Marlborough,beef,80354
+647,1996,Marlborough,beef,79081
+648,1997,Marlborough,beef,
+649,1998,Marlborough,beef,
+650,1999,Marlborough,beef,85018
+651,2000,Marlborough,beef,
+652,2001,Marlborough,beef,
+653,2002,Marlborough,beef,72479
+654,2003,Marlborough,beef,69955
+655,2004,Marlborough,beef,67063
+656,2005,Marlborough,beef,63620
+657,2006,Marlborough,beef,67830
+658,2007,Marlborough,beef,65768
+659,2008,Marlborough,beef,56859
+660,2009,Marlborough,beef,
+661,2010,Marlborough,beef,60852
+662,2011,Marlborough,beef,51103
+663,2012,Marlborough,beef,60127
+664,2013,Marlborough,beef,60172
+665,2014,Marlborough,beef,59967
+666,2015,Marlborough,beef,54266
+667,2016,Marlborough,beef,54063
+668,1994,West Coast,beef,67733
+669,1995,West Coast,beef,65975
+670,1996,West Coast,beef,59931
+671,1997,West Coast,beef,
+672,1998,West Coast,beef,
+673,1999,West Coast,beef,52364
+674,2000,West Coast,beef,
+675,2001,West Coast,beef,
+676,2002,West Coast,beef,38908
+677,2003,West Coast,beef,36968
+678,2004,West Coast,beef,31274
+679,2005,West Coast,beef,32275
+680,2006,West Coast,beef,37097
+681,2007,West Coast,beef,30275
+682,2008,West Coast,beef,34713
+683,2009,West Coast,beef,35892
+684,2010,West Coast,beef,31816
+685,2011,West Coast,beef,29531
+686,2012,West Coast,beef,29002
+687,2013,West Coast,beef,26242
+688,2014,West Coast,beef,40777
+689,2015,West Coast,beef,36547
+690,2016,West Coast,beef,31902
+691,1994,Canterbury,beef,452832
+692,1995,Canterbury,beef,488099
+693,1996,Canterbury,beef,490087
+694,1997,Canterbury,beef,
+695,1998,Canterbury,beef,
+696,1999,Canterbury,beef,515657
+697,2000,Canterbury,beef,
+698,2001,Canterbury,beef,
+699,2002,Canterbury,beef,505461
+700,2003,Canterbury,beef,553846
+701,2004,Canterbury,beef,532238
+702,2005,Canterbury,beef,534176
+703,2006,Canterbury,beef,529952
+704,2007,Canterbury,beef,584806
+705,2008,Canterbury,beef,533665
+706,2009,Canterbury,beef,529467
+707,2010,Canterbury,beef,486385
+708,2011,Canterbury,beef,517760
+709,2012,Canterbury,beef,470746
+710,2013,Canterbury,beef,492844
+711,2014,Canterbury,beef,447244
+712,2015,Canterbury,beef,440598
+713,2016,Canterbury,beef,465462
+714,1994,Otago,beef,270422
+715,1995,Otago,beef,284347
+716,1996,Otago,beef,283683
+717,1997,Otago,beef,
+718,1998,Otago,beef,
+719,1999,Otago,beef,292449
+720,2000,Otago,beef,
+721,2001,Otago,beef,
+722,2002,Otago,beef,267091
+723,2003,Otago,beef,272551
+724,2004,Otago,beef,259911
+725,2005,Otago,beef,281842
+726,2006,Otago,beef,278269
+727,2007,Otago,beef,292355
+728,2008,Otago,beef,291234
+729,2009,Otago,beef,291585
+730,2010,Otago,beef,280997
+731,2011,Otago,beef,268322
+732,2012,Otago,beef,290398
+733,2013,Otago,beef,276545
+734,2014,Otago,beef,293251
+735,2015,Otago,beef,272686
+736,2016,Otago,beef,256178
+737,1994,Southland,beef,202538
+738,1995,Southland,beef,214326
+739,1996,Southland,beef,204107
+740,1997,Southland,beef,
+741,1998,Southland,beef,
+742,1999,Southland,beef,229830
+743,2000,Southland,beef,
+744,2001,Southland,beef,
+745,2002,Southland,beef,203670
+746,2003,Southland,beef,220042
+747,2004,Southland,beef,216523
+748,2005,Southland,beef,202326
+749,2006,Southland,beef,204632
+750,2007,Southland,beef,207588
+751,2008,Southland,beef,190562
+752,2009,Southland,beef,214927
+753,2010,Southland,beef,186157
+754,2011,Southland,beef,173798
+755,2012,Southland,beef,172150
+756,2013,Southland,beef,168031
+757,2014,Southland,beef,173957
+758,2015,Southland,beef,164718
+759,2016,Southland,beef,169251
+760,1994,Chatham Islands,beef,6472
+761,1995,Chatham Islands,beef,6942
+762,1996,Chatham Islands,beef,7565
+763,1997,Chatham Islands,beef,
+764,1998,Chatham Islands,beef,
+765,1999,Chatham Islands,beef,9190
+766,2000,Chatham Islands,beef,
+767,2001,Chatham Islands,beef,
+768,2002,Chatham Islands,beef,8863
+769,2003,Chatham Islands,beef,
+770,2004,Chatham Islands,beef,
+771,2005,Chatham Islands,beef,
+772,2006,Chatham Islands,beef,
+773,2007,Chatham Islands,beef,11905
+774,2008,Chatham Islands,beef,12327
+775,2009,Chatham Islands,beef,13374
+776,2010,Chatham Islands,beef,13809
+777,2011,Chatham Islands,beef,
+778,2012,Chatham Islands,beef,
+779,2013,Chatham Islands,beef,10050
+780,2014,Chatham Islands,beef,9926
+781,2015,Chatham Islands,beef,10462
+782,2016,Chatham Islands,beef,9051
+783,1994,Northland,total_cattle,930633
+784,1995,Northland,total_cattle,982991
+785,1996,Northland,total_cattle,946642
+786,1997,Northland,total_cattle,
+787,1998,Northland,total_cattle,
+788,1999,Northland,total_cattle,930035
+789,2000,Northland,total_cattle,
+790,2001,Northland,total_cattle,
+791,2002,Northland,total_cattle,873819
+792,2003,Northland,total_cattle,852220
+793,2004,Northland,total_cattle,850912
+794,2005,Northland,total_cattle,812457
+795,2006,Northland,total_cattle,868939
+796,2007,Northland,total_cattle,863016
+797,2008,Northland,total_cattle,899733
+798,2009,Northland,total_cattle,877808
+799,2010,Northland,total_cattle,818484
+800,2011,Northland,total_cattle,787070
+801,2012,Northland,total_cattle,778483
+802,2013,Northland,total_cattle,779434
+803,2014,Northland,total_cattle,702684
+804,2015,Northland,total_cattle,735185
+805,2016,Northland,total_cattle,761239
+806,1994,Auckland,total_cattle,382493
+807,1995,Auckland,total_cattle,395610
+808,1996,Auckland,total_cattle,346525
+809,1997,Auckland,total_cattle,
+810,1998,Auckland,total_cattle,
+811,1999,Auckland,total_cattle,310683
+812,2000,Auckland,total_cattle,
+813,2001,Auckland,total_cattle,
+814,2002,Auckland,total_cattle,322437
+815,2003,Auckland,total_cattle,347625
+816,2004,Auckland,total_cattle,307657
+817,2005,Auckland,total_cattle,289883
+818,2006,Auckland,total_cattle,269982
+819,2007,Auckland,total_cattle,270131
+820,2008,Auckland,total_cattle,259250
+821,2009,Auckland,total_cattle,229399
+822,2010,Auckland,total_cattle,232413
+823,2011,Auckland,total_cattle,250105
+824,2012,Auckland,total_cattle,234739
+825,2013,Auckland,total_cattle,226113
+826,2014,Auckland,total_cattle,219353
+827,2015,Auckland,total_cattle,235960
+828,2016,Auckland,total_cattle,287107
+829,1994,Waikato,total_cattle,2307569
+830,1995,Waikato,total_cattle,2387482
+831,1996,Waikato,total_cattle,2324590
+832,1997,Waikato,total_cattle,
+833,1998,Waikato,total_cattle,
+834,1999,Waikato,total_cattle,2182614
+835,2000,Waikato,total_cattle,
+836,2001,Waikato,total_cattle,
+837,2002,Waikato,total_cattle,2330330
+838,2003,Waikato,total_cattle,2376115
+839,2004,Waikato,total_cattle,2338768
+840,2005,Waikato,total_cattle,2402922
+841,2006,Waikato,total_cattle,2396614
+842,2007,Waikato,total_cattle,2346056
+843,2008,Waikato,total_cattle,2293882
+844,2009,Waikato,total_cattle,2384581
+845,2010,Waikato,total_cattle,2292974
+846,2011,Waikato,total_cattle,2311143
+847,2012,Waikato,total_cattle,2338249
+848,2013,Waikato,total_cattle,2339472
+849,2014,Waikato,total_cattle,2383815
+850,2015,Waikato,total_cattle,2225466
+851,2016,Waikato,total_cattle,2353832
+852,1994,Bay of Plenty,total_cattle,450558
+853,1995,Bay of Plenty,total_cattle,473763
+854,1996,Bay of Plenty,total_cattle,469487
+855,1997,Bay of Plenty,total_cattle,
+856,1998,Bay of Plenty,total_cattle,
+857,1999,Bay of Plenty,total_cattle,465339
+858,2000,Bay of Plenty,total_cattle,
+859,2001,Bay of Plenty,total_cattle,
+860,2002,Bay of Plenty,total_cattle,466225
+861,2003,Bay of Plenty,total_cattle,452190
+862,2004,Bay of Plenty,total_cattle,437651
+863,2005,Bay of Plenty,total_cattle,438120
+864,2006,Bay of Plenty,total_cattle,417944
+865,2007,Bay of Plenty,total_cattle,418756
+866,2008,Bay of Plenty,total_cattle,417864
+867,2009,Bay of Plenty,total_cattle,409237
+868,2010,Bay of Plenty,total_cattle,389724
+869,2011,Bay of Plenty,total_cattle,415329
+870,2012,Bay of Plenty,total_cattle,405683
+871,2013,Bay of Plenty,total_cattle,407663
+872,2014,Bay of Plenty,total_cattle,421158
+873,2015,Bay of Plenty,total_cattle,447807
+874,2016,Bay of Plenty,total_cattle,431753
+875,1994,Gisborne,total_cattle,357610
+876,1995,Gisborne,total_cattle,370880
+877,1996,Gisborne,total_cattle,372827
+878,1997,Gisborne,total_cattle,
+879,1998,Gisborne,total_cattle,
+880,1999,Gisborne,total_cattle,286441
+881,2000,Gisborne,total_cattle,
+882,2001,Gisborne,total_cattle,
+883,2002,Gisborne,total_cattle,322356
+884,2003,Gisborne,total_cattle,356882
+885,2004,Gisborne,total_cattle,348428
+886,2005,Gisborne,total_cattle,306668
+887,2006,Gisborne,total_cattle,311984
+888,2007,Gisborne,total_cattle,295187
+889,2008,Gisborne,total_cattle,303510
+890,2009,Gisborne,total_cattle,261380
+891,2010,Gisborne,total_cattle,272608
+892,2011,Gisborne,total_cattle,289823
+893,2012,Gisborne,total_cattle,284694
+894,2013,Gisborne,total_cattle,279788
+895,2014,Gisborne,total_cattle,292637
+896,2015,Gisborne,total_cattle,255167
+897,2016,Gisborne,total_cattle,255223
+898,1994,Hawke's Bay,total_cattle,554474
+899,1995,Hawke's Bay,total_cattle,559142
+900,1996,Hawke's Bay,total_cattle,559763
+901,1997,Hawke's Bay,total_cattle,
+902,1998,Hawke's Bay,total_cattle,
+903,1999,Hawke's Bay,total_cattle,586855
+904,2000,Hawke's Bay,total_cattle,
+905,2001,Hawke's Bay,total_cattle,
+906,2002,Hawke's Bay,total_cattle,644971
+907,2003,Hawke's Bay,total_cattle,667254
+908,2004,Hawke's Bay,total_cattle,704657
+909,2005,Hawke's Bay,total_cattle,611285
+910,2006,Hawke's Bay,total_cattle,608228
+911,2007,Hawke's Bay,total_cattle,518566
+912,2008,Hawke's Bay,total_cattle,593323
+913,2009,Hawke's Bay,total_cattle,530078
+914,2010,Hawke's Bay,total_cattle,567668
+915,2011,Hawke's Bay,total_cattle,578742
+916,2012,Hawke's Bay,total_cattle,564057
+917,2013,Hawke's Bay,total_cattle,528867
+918,2014,Hawke's Bay,total_cattle,539675
+919,2015,Hawke's Bay,total_cattle,523657
+920,2016,Hawke's Bay,total_cattle,525691
+921,1994,Taranaki,total_cattle,771867
+922,1995,Taranaki,total_cattle,786803
+923,1996,Taranaki,total_cattle,755450
+924,1997,Taranaki,total_cattle,
+925,1998,Taranaki,total_cattle,
+926,1999,Taranaki,total_cattle,731281
+927,2000,Taranaki,total_cattle,
+928,2001,Taranaki,total_cattle,
+929,2002,Taranaki,total_cattle,778918
+930,2003,Taranaki,total_cattle,744643
+931,2004,Taranaki,total_cattle,787879
+932,2005,Taranaki,total_cattle,746527
+933,2006,Taranaki,total_cattle,728035
+934,2007,Taranaki,total_cattle,726288
+935,2008,Taranaki,total_cattle,703597
+936,2009,Taranaki,total_cattle,733772
+937,2010,Taranaki,total_cattle,779578
+938,2011,Taranaki,total_cattle,743947
+939,2012,Taranaki,total_cattle,707929
+940,2013,Taranaki,total_cattle,713540
+941,2014,Taranaki,total_cattle,715723
+942,2015,Taranaki,total_cattle,670205
+943,2016,Taranaki,total_cattle,662151
+944,1994,Manawatu-Whanganui,total_cattle,1132903
+945,1995,Manawatu-Whanganui,total_cattle,1181267
+946,1996,Manawatu-Whanganui,total_cattle,1107443
+947,1997,Manawatu-Whanganui,total_cattle,
+948,1998,Manawatu-Whanganui,total_cattle,
+949,1999,Manawatu-Whanganui,total_cattle,1081223
+950,2000,Manawatu-Whanganui,total_cattle,
+951,2001,Manawatu-Whanganui,total_cattle,
+952,2002,Manawatu-Whanganui,total_cattle,1143108
+953,2003,Manawatu-Whanganui,total_cattle,1108249
+954,2004,Manawatu-Whanganui,total_cattle,1023071
+955,2005,Manawatu-Whanganui,total_cattle,1107266
+956,2006,Manawatu-Whanganui,total_cattle,1091996
+957,2007,Manawatu-Whanganui,total_cattle,1074413
+958,2008,Manawatu-Whanganui,total_cattle,1008612
+959,2009,Manawatu-Whanganui,total_cattle,1034581
+960,2010,Manawatu-Whanganui,total_cattle,1105048
+961,2011,Manawatu-Whanganui,total_cattle,1066624
+962,2012,Manawatu-Whanganui,total_cattle,1055031
+963,2013,Manawatu-Whanganui,total_cattle,1018173
+964,2014,Manawatu-Whanganui,total_cattle,1062238
+965,2015,Manawatu-Whanganui,total_cattle,1018754
+966,2016,Manawatu-Whanganui,total_cattle,1067822
+967,1994,Wellington,total_cattle,296614
+968,1995,Wellington,total_cattle,311315
+969,1996,Wellington,total_cattle,295170
+970,1997,Wellington,total_cattle,
+971,1998,Wellington,total_cattle,
+972,1999,Wellington,total_cattle,279173
+973,2000,Wellington,total_cattle,
+974,2001,Wellington,total_cattle,
+975,2002,Wellington,total_cattle,292500
+976,2003,Wellington,total_cattle,288262
+977,2004,Wellington,total_cattle,269227
+978,2005,Wellington,total_cattle,266309
+979,2006,Wellington,total_cattle,279494
+980,2007,Wellington,total_cattle,248697
+981,2008,Wellington,total_cattle,243907
+982,2009,Wellington,total_cattle,232125
+983,2010,Wellington,total_cattle,235773
+984,2011,Wellington,total_cattle,264681
+985,2012,Wellington,total_cattle,248594
+986,2013,Wellington,total_cattle,240117
+987,2014,Wellington,total_cattle,245968
+988,2015,Wellington,total_cattle,231423
+989,2016,Wellington,total_cattle,221344
+990,1994,Tasman,total_cattle,113545
+991,1995,Tasman,total_cattle,117358
+992,1996,Tasman,total_cattle,114855
+993,1997,Tasman,total_cattle,
+994,1998,Tasman,total_cattle,
+995,1999,Tasman,total_cattle,131538
+996,2000,Tasman,total_cattle,
+997,2001,Tasman,total_cattle,
+998,2002,Tasman,total_cattle,116505
+999,2003,Tasman,total_cattle,127361
+1000,2004,Tasman,total_cattle,117071
+1001,2005,Tasman,total_cattle,112757
+1002,2006,Tasman,total_cattle,111753
+1003,2007,Tasman,total_cattle,115277
+1004,2008,Tasman,total_cattle,120558
+1005,2009,Tasman,total_cattle,146074
+1006,2010,Tasman,total_cattle,120871
+1007,2011,Tasman,total_cattle,119158
+1008,2012,Tasman,total_cattle,112105
+1009,2013,Tasman,total_cattle,118550
+1010,2014,Tasman,total_cattle,116760
+1011,2015,Tasman,total_cattle,119394
+1012,2016,Tasman,total_cattle,97621
+1013,1994,Nelson,total_cattle,3303
+1014,1995,Nelson,total_cattle,3761
+1015,1996,Nelson,total_cattle,3619
+1016,1997,Nelson,total_cattle,
+1017,1998,Nelson,total_cattle,
+1018,1999,Nelson,total_cattle,
+1019,2000,Nelson,total_cattle,
+1020,2001,Nelson,total_cattle,
+1021,2002,Nelson,total_cattle,4311
+1022,2003,Nelson,total_cattle,
+1023,2004,Nelson,total_cattle,
+1024,2005,Nelson,total_cattle,
+1025,2006,Nelson,total_cattle,
+1026,2007,Nelson,total_cattle,3160
+1027,2008,Nelson,total_cattle,
+1028,2009,Nelson,total_cattle,2367
+1029,2010,Nelson,total_cattle,
+1030,2011,Nelson,total_cattle,1986
+1031,2012,Nelson,total_cattle,2967
+1032,2013,Nelson,total_cattle,2465
+1033,2014,Nelson,total_cattle,3692
+1034,2015,Nelson,total_cattle,10950
+1035,2016,Nelson,total_cattle,4022
+1036,1994,Marlborough,total_cattle,97104
+1037,1995,Marlborough,total_cattle,104389
+1038,1996,Marlborough,total_cattle,104017
+1039,1997,Marlborough,total_cattle,
+1040,1998,Marlborough,total_cattle,
+1041,1999,Marlborough,total_cattle,118036
+1042,2000,Marlborough,total_cattle,
+1043,2001,Marlborough,total_cattle,
+1044,2002,Marlborough,total_cattle,105005
+1045,2003,Marlborough,total_cattle,98188
+1046,2004,Marlborough,total_cattle,93894
+1047,2005,Marlborough,total_cattle,94224
+1048,2006,Marlborough,total_cattle,93613
+1049,2007,Marlborough,total_cattle,89667
+1050,2008,Marlborough,total_cattle,90403
+1051,2009,Marlborough,total_cattle,90718
+1052,2010,Marlborough,total_cattle,86832
+1053,2011,Marlborough,total_cattle,81116
+1054,2012,Marlborough,total_cattle,93345
+1055,2013,Marlborough,total_cattle,87983
+1056,2014,Marlborough,total_cattle,100912
+1057,2015,Marlborough,total_cattle,81306
+1058,2016,Marlborough,total_cattle,79211
+1059,1994,West Coast,total_cattle,146984
+1060,1995,West Coast,total_cattle,151132
+1061,1996,West Coast,total_cattle,150953
+1062,1997,West Coast,total_cattle,
+1063,1998,West Coast,total_cattle,
+1064,1999,West Coast,total_cattle,173356
+1065,2000,West Coast,total_cattle,
+1066,2001,West Coast,total_cattle,
+1067,2002,West Coast,total_cattle,163548
+1068,2003,West Coast,total_cattle,159540
+1069,2004,West Coast,total_cattle,172675
+1070,2005,West Coast,total_cattle,174645
+1071,2006,West Coast,total_cattle,185827
+1072,2007,West Coast,total_cattle,182756
+1073,2008,West Coast,total_cattle,187581
+1074,2009,West Coast,total_cattle,215308
+1075,2010,West Coast,total_cattle,192606
+1076,2011,West Coast,total_cattle,208839
+1077,2012,West Coast,total_cattle,202653
+1078,2013,West Coast,total_cattle,205149
+1079,2014,West Coast,total_cattle,229194
+1080,2015,West Coast,total_cattle,218845
+1081,2016,West Coast,total_cattle,212858
+1082,1994,Canterbury,total_cattle,665324
+1083,1995,Canterbury,total_cattle,727237
+1084,1996,Canterbury,total_cattle,736316
+1085,1997,Canterbury,total_cattle,
+1086,1998,Canterbury,total_cattle,
+1087,1999,Canterbury,total_cattle,790962
+1088,2000,Canterbury,total_cattle,
+1089,2001,Canterbury,total_cattle,
+1090,2002,Canterbury,total_cattle,1048071
+1091,2003,Canterbury,total_cattle,1110185
+1092,2004,Canterbury,total_cattle,1131881
+1093,2005,Canterbury,total_cattle,1138932
+1094,2006,Canterbury,total_cattle,1185628
+1095,2007,Canterbury,total_cattle,1339743
+1096,2008,Canterbury,total_cattle,1365331
+1097,2009,Canterbury,total_cattle,1447948
+1098,2010,Canterbury,total_cattle,1424837
+1099,2011,Canterbury,total_cattle,1524503
+1100,2012,Canterbury,total_cattle,1671039
+1101,2013,Canterbury,total_cattle,1797462
+1102,2014,Canterbury,total_cattle,1780464
+1103,2015,Canterbury,total_cattle,1694591
+1104,2016,Canterbury,total_cattle,1736519
+1105,1994,Otago,total_cattle,352595
+1106,1995,Otago,total_cattle,372114
+1107,1996,Otago,total_cattle,380378
+1108,1997,Otago,total_cattle,
+1109,1998,Otago,total_cattle,
+1110,1999,Otago,total_cattle,417139
+1111,2000,Otago,total_cattle,
+1112,2001,Otago,total_cattle,
+1113,2002,Otago,total_cattle,471893
+1114,2003,Otago,total_cattle,454036
+1115,2004,Otago,total_cattle,434164
+1116,2005,Otago,total_cattle,443458
+1117,2006,Otago,total_cattle,459003
+1118,2007,Otago,total_cattle,510619
+1119,2008,Otago,total_cattle,524139
+1120,2009,Otago,total_cattle,548634
+1121,2010,Otago,total_cattle,543414
+1122,2011,Otago,total_cattle,576139
+1123,2012,Otago,total_cattle,626676
+1124,2013,Otago,total_cattle,643837
+1125,2014,Otago,total_cattle,669993
+1126,2015,Otago,total_cattle,657664
+1127,2016,Otago,total_cattle,568264
+1128,1994,Southland,total_cattle,316916
+1129,1995,Southland,total_cattle,340132
+1130,1996,Southland,total_cattle,341659
+1131,1997,Southland,total_cattle,
+1132,1998,Southland,total_cattle,
+1133,1999,Southland,total_cattle,462796
+1134,2000,Southland,total_cattle,
+1135,2001,Southland,total_cattle,
+1136,2002,Southland,total_cattle,559890
+1137,2003,Southland,total_cattle,567835
+1138,2004,Southland,total_cattle,565544
+1139,2005,Southland,total_cattle,550401
+1140,2006,Southland,total_cattle,580543
+1141,2007,Southland,total_cattle,640230
+1142,2008,Southland,total_cattle,686533
+1143,2009,Southland,total_cattle,804112
+1144,2010,Southland,total_cattle,785355
+1145,2011,Southland,total_cattle,788446
+1146,2012,Southland,total_cattle,842731
+1147,2013,Southland,total_cattle,783459
+1148,2014,Southland,total_cattle,873996
+1149,2015,Southland,total_cattle,895927
+1150,2016,Southland,total_cattle,878146
+1151,1994,Chatham Islands,total_cattle,6540
+1152,1995,Chatham Islands,total_cattle,6949
+1153,1996,Chatham Islands,total_cattle,7581
+1154,1997,Chatham Islands,total_cattle,
+1155,1998,Chatham Islands,total_cattle,
+1156,1999,Chatham Islands,total_cattle,
+1157,2000,Chatham Islands,total_cattle,
+1158,2001,Chatham Islands,total_cattle,
+1159,2002,Chatham Islands,total_cattle,
+1160,2003,Chatham Islands,total_cattle,
+1161,2004,Chatham Islands,total_cattle,
+1162,2005,Chatham Islands,total_cattle,
+1163,2006,Chatham Islands,total_cattle,
+1164,2007,Chatham Islands,total_cattle,11905
+1165,2008,Chatham Islands,total_cattle,
+1166,2009,Chatham Islands,total_cattle,13374
+1167,2010,Chatham Islands,total_cattle,
+1168,2011,Chatham Islands,total_cattle,13268
+1169,2012,Chatham Islands,total_cattle,11118
+1170,2013,Chatham Islands,total_cattle,10050
+1171,2014,Chatham Islands,total_cattle,9926
+1172,2015,Chatham Islands,total_cattle,10462
+1173,2016,Chatham Islands,total_cattle,9051
+1174,1994,Northland,sheep,814163
+1175,1995,Northland,sheep,780146
+1176,1996,Northland,sheep,706337
+1177,1997,Northland,sheep,
+1178,1998,Northland,sheep,
+1179,1999,Northland,sheep,583770
+1180,2000,Northland,sheep,
+1181,2001,Northland,sheep,
+1182,2002,Northland,sheep,522189
+1183,2003,Northland,sheep,530059
+1184,2004,Northland,sheep,494357
+1185,2005,Northland,sheep,556734
+1186,2006,Northland,sheep,525830
+1187,2007,Northland,sheep,534452
+1188,2008,Northland,sheep,504286
+1189,2009,Northland,sheep,429401
+1190,2010,Northland,sheep,430740
+1191,2011,Northland,sheep,400480
+1192,2012,Northland,sheep,440955
+1193,2013,Northland,sheep,427281
+1194,2014,Northland,sheep,331251
+1195,2015,Northland,sheep,381256
+1196,2016,Northland,sheep,366197
+1197,1994,Auckland,sheep,498152
+1198,1995,Auckland,sheep,503266
+1199,1996,Auckland,sheep,399926
+1200,1997,Auckland,sheep,
+1201,1998,Auckland,sheep,
+1202,1999,Auckland,sheep,478793
+1203,2000,Auckland,sheep,
+1204,2001,Auckland,sheep,
+1205,2002,Auckland,sheep,368217
+1206,2003,Auckland,sheep,361345
+1207,2004,Auckland,sheep,325188
+1208,2005,Auckland,sheep,318201
+1209,2006,Auckland,sheep,293760
+1210,2007,Auckland,sheep,287589
+1211,2008,Auckland,sheep,264979
+1212,2009,Auckland,sheep,257248
+1213,2010,Auckland,sheep,235414
+1214,2011,Auckland,sheep,219952
+1215,2012,Auckland,sheep,205270
+1216,2013,Auckland,sheep,212437
+1217,2014,Auckland,sheep,215932
+1218,2015,Auckland,sheep,240830
+1219,2016,Auckland,sheep,202200
+1220,1994,Waikato,sheep,3606345
+1221,1995,Waikato,sheep,3515338
+1222,1996,Waikato,sheep,3367980
+1223,1997,Waikato,sheep,
+1224,1998,Waikato,sheep,
+1225,1999,Waikato,sheep,2865674
+1226,2000,Waikato,sheep,
+1227,2001,Waikato,sheep,
+1228,2002,Waikato,sheep,2592399
+1229,2003,Waikato,sheep,2409128
+1230,2004,Waikato,sheep,2457368
+1231,2005,Waikato,sheep,2555163
+1232,2006,Waikato,sheep,2706984
+1233,2007,Waikato,sheep,2660145
+1234,2008,Waikato,sheep,2168673
+1235,2009,Waikato,sheep,2101906
+1236,2010,Waikato,sheep,1982414
+1237,2011,Waikato,sheep,1838297
+1238,2012,Waikato,sheep,1776544
+1239,2013,Waikato,sheep,1926059
+1240,2014,Waikato,sheep,1699244
+1241,2015,Waikato,sheep,1646010
+1242,2016,Waikato,sheep,1666388
+1243,1994,Bay of Plenty,sheep,620337
+1244,1995,Bay of Plenty,sheep,650405
+1245,1996,Bay of Plenty,sheep,575582
+1246,1997,Bay of Plenty,sheep,
+1247,1998,Bay of Plenty,sheep,
+1248,1999,Bay of Plenty,sheep,496237
+1249,2000,Bay of Plenty,sheep,
+1250,2001,Bay of Plenty,sheep,
+1251,2002,Bay of Plenty,sheep,415379
+1252,2003,Bay of Plenty,sheep,355785
+1253,2004,Bay of Plenty,sheep,409095
+1254,2005,Bay of Plenty,sheep,356859
+1255,2006,Bay of Plenty,sheep,382419
+1256,2007,Bay of Plenty,sheep,385373
+1257,2008,Bay of Plenty,sheep,346445
+1258,2009,Bay of Plenty,sheep,331049
+1259,2010,Bay of Plenty,sheep,347973
+1260,2011,Bay of Plenty,sheep,284954
+1261,2012,Bay of Plenty,sheep,322882
+1262,2013,Bay of Plenty,sheep,312593
+1263,2014,Bay of Plenty,sheep,250299
+1264,2015,Bay of Plenty,sheep,302986
+1265,2016,Bay of Plenty,sheep,263380
+1266,1994,Gisborne,sheep,2088870
+1267,1995,Gisborne,sheep,2094187
+1268,1996,Gisborne,sheep,2046895
+1269,1997,Gisborne,sheep,
+1270,1998,Gisborne,sheep,
+1271,1999,Gisborne,sheep,1608006
+1272,2000,Gisborne,sheep,
+1273,2001,Gisborne,sheep,
+1274,2002,Gisborne,sheep,1679377
+1275,2003,Gisborne,sheep,1869777
+1276,2004,Gisborne,sheep,1847723
+1277,2005,Gisborne,sheep,1717266
+1278,2006,Gisborne,sheep,1833833
+1279,2007,Gisborne,sheep,1825496
+1280,2008,Gisborne,sheep,1679670
+1281,2009,Gisborne,sheep,1548344
+1282,2010,Gisborne,sheep,1589785
+1283,2011,Gisborne,sheep,1517015
+1284,2012,Gisborne,sheep,1547294
+1285,2013,Gisborne,sheep,1503378
+1286,2014,Gisborne,sheep,1602270
+1287,2015,Gisborne,sheep,1472423
+1288,2016,Gisborne,sheep,1515181
+1289,1994,Hawke's Bay,sheep,4264012
+1290,1995,Hawke's Bay,sheep,4351060
+1291,1996,Hawke's Bay,sheep,4370417
+1292,1997,Hawke's Bay,sheep,
+1293,1998,Hawke's Bay,sheep,
+1294,1999,Hawke's Bay,sheep,4501563
+1295,2000,Hawke's Bay,sheep,
+1296,2001,Hawke's Bay,sheep,
+1297,2002,Hawke's Bay,sheep,3788684
+1298,2003,Hawke's Bay,sheep,3922729
+1299,2004,Hawke's Bay,sheep,4305819
+1300,2005,Hawke's Bay,sheep,4070230
+1301,2006,Hawke's Bay,sheep,4226620
+1302,2007,Hawke's Bay,sheep,3624018
+1303,2008,Hawke's Bay,sheep,3690843
+1304,2009,Hawke's Bay,sheep,3445616
+1305,2010,Hawke's Bay,sheep,3429382
+1306,2011,Hawke's Bay,sheep,3266872
+1307,2012,Hawke's Bay,sheep,3262468
+1308,2013,Hawke's Bay,sheep,2996560
+1309,2014,Hawke's Bay,sheep,2872852
+1310,2015,Hawke's Bay,sheep,3028852
+1311,2016,Hawke's Bay,sheep,2872524
+1312,1994,Taranaki,sheep,966752
+1313,1995,Taranaki,sheep,906994
+1314,1996,Taranaki,sheep,857256
+1315,1997,Taranaki,sheep,
+1316,1998,Taranaki,sheep,
+1317,1999,Taranaki,sheep,816819
+1318,2000,Taranaki,sheep,
+1319,2001,Taranaki,sheep,
+1320,2002,Taranaki,sheep,697637
+1321,2003,Taranaki,sheep,664627
+1322,2004,Taranaki,sheep,687435
+1323,2005,Taranaki,sheep,678700
+1324,2006,Taranaki,sheep,688273
+1325,2007,Taranaki,sheep,656144
+1326,2008,Taranaki,sheep,637400
+1327,2009,Taranaki,sheep,537850
+1328,2010,Taranaki,sheep,583467
+1329,2011,Taranaki,sheep,556982
+1330,2012,Taranaki,sheep,434402
+1331,2013,Taranaki,sheep,537355
+1332,2014,Taranaki,sheep,502255
+1333,2015,Taranaki,sheep,499840
+1334,2016,Taranaki,sheep,434333
+1335,1994,Manawatu-Whanganui,sheep,7458218
+1336,1995,Manawatu-Whanganui,sheep,7430173
+1337,1996,Manawatu-Whanganui,sheep,7216177
+1338,1997,Manawatu-Whanganui,sheep,
+1339,1998,Manawatu-Whanganui,sheep,
+1340,1999,Manawatu-Whanganui,sheep,6955560
+1341,2000,Manawatu-Whanganui,sheep,
+1342,2001,Manawatu-Whanganui,sheep,
+1343,2002,Manawatu-Whanganui,sheep,6563838
+1344,2003,Manawatu-Whanganui,sheep,6516684
+1345,2004,Manawatu-Whanganui,sheep,6263729
+1346,2005,Manawatu-Whanganui,sheep,6738633
+1347,2006,Manawatu-Whanganui,sheep,6870265
+1348,2007,Manawatu-Whanganui,sheep,6746989
+1349,2008,Manawatu-Whanganui,sheep,5916784
+1350,2009,Manawatu-Whanganui,sheep,5767131
+1351,2010,Manawatu-Whanganui,sheep,5796023
+1352,2011,Manawatu-Whanganui,sheep,5730947
+1353,2012,Manawatu-Whanganui,sheep,5612743
+1354,2013,Manawatu-Whanganui,sheep,5469819
+1355,2014,Manawatu-Whanganui,sheep,5328843
+1356,2015,Manawatu-Whanganui,sheep,5518950
+1357,2016,Manawatu-Whanganui,sheep,5040174
+1358,1994,Wellington,sheep,2199545
+1359,1995,Wellington,sheep,2175123
+1360,1996,Wellington,sheep,2115651
+1361,1997,Wellington,sheep,
+1362,1998,Wellington,sheep,
+1363,1999,Wellington,sheep,2270704
+1364,2000,Wellington,sheep,
+1365,2001,Wellington,sheep,
+1366,2002,Wellington,sheep,1812531
+1367,2003,Wellington,sheep,1779872
+1368,2004,Wellington,sheep,1943427
+1369,2005,Wellington,sheep,2038979
+1370,2006,Wellington,sheep,2012471
+1371,2007,Wellington,sheep,1822057
+1372,2008,Wellington,sheep,1779247
+1373,2009,Wellington,sheep,1659327
+1374,2010,Wellington,sheep,1633879
+1375,2011,Wellington,sheep,1645127
+1376,2012,Wellington,sheep,1664892
+1377,2013,Wellington,sheep,1572985
+1378,2014,Wellington,sheep,1559548
+1379,2015,Wellington,sheep,1420470
+1380,2016,Wellington,sheep,1333163
+1381,1994,Tasman,sheep,424875
+1382,1995,Tasman,sheep,409296
+1383,1996,Tasman,sheep,405397
+1384,1997,Tasman,sheep,
+1385,1998,Tasman,sheep,
+1386,1999,Tasman,sheep,433680
+1387,2000,Tasman,sheep,
+1388,2001,Tasman,sheep,
+1389,2002,Tasman,sheep,356240
+1390,2003,Tasman,sheep,402925
+1391,2004,Tasman,sheep,339028
+1392,2005,Tasman,sheep,325874
+1393,2006,Tasman,sheep,323542
+1394,2007,Tasman,sheep,348485
+1395,2008,Tasman,sheep,
+1396,2009,Tasman,sheep,327770
+1397,2010,Tasman,sheep,317299
+1398,2011,Tasman,sheep,249640
+1399,2012,Tasman,sheep,276877
+1400,2013,Tasman,sheep,265858
+1401,2014,Tasman,sheep,242694
+1402,2015,Tasman,sheep,354757
+1403,2016,Tasman,sheep,253149
+1404,1994,Nelson,sheep,15099
+1405,1995,Nelson,sheep,16033
+1406,1996,Nelson,sheep,17439
+1407,1997,Nelson,sheep,
+1408,1998,Nelson,sheep,
+1409,1999,Nelson,sheep,12997
+1410,2000,Nelson,sheep,
+1411,2001,Nelson,sheep,
+1412,2002,Nelson,sheep,11089
+1413,2003,Nelson,sheep,
+1414,2004,Nelson,sheep,17523
+1415,2005,Nelson,sheep,17138
+1416,2006,Nelson,sheep,
+1417,2007,Nelson,sheep,7639
+1418,2008,Nelson,sheep,8671
+1419,2009,Nelson,sheep,4673
+1420,2010,Nelson,sheep,11974
+1421,2011,Nelson,sheep,13743
+1422,2012,Nelson,sheep,6466
+1423,2013,Nelson,sheep,6032
+1424,2014,Nelson,sheep,8925
+1425,2015,Nelson,sheep,8531
+1426,2016,Nelson,sheep,4729
+1427,1994,Marlborough,sheep,955338
+1428,1995,Marlborough,sheep,930216
+1429,1996,Marlborough,sheep,897065
+1430,1997,Marlborough,sheep,
+1431,1998,Marlborough,sheep,
+1432,1999,Marlborough,sheep,943977
+1433,2000,Marlborough,sheep,
+1434,2001,Marlborough,sheep,
+1435,2002,Marlborough,sheep,785115
+1436,2003,Marlborough,sheep,741038
+1437,2004,Marlborough,sheep,675284
+1438,2005,Marlborough,sheep,638031
+1439,2006,Marlborough,sheep,648601
+1440,2007,Marlborough,sheep,578805
+1441,2008,Marlborough,sheep,517526
+1442,2009,Marlborough,sheep,516391
+1443,2010,Marlborough,sheep,522176
+1444,2011,Marlborough,sheep,425299
+1445,2012,Marlborough,sheep,547180
+1446,2013,Marlborough,sheep,518372
+1447,2014,Marlborough,sheep,544578
+1448,2015,Marlborough,sheep,453191
+1449,2016,Marlborough,sheep,434222
+1450,1994,West Coast,sheep,216544
+1451,1995,West Coast,sheep,221246
+1452,1996,West Coast,sheep,172864
+1453,1997,West Coast,sheep,
+1454,1998,West Coast,sheep,
+1455,1999,West Coast,sheep,103837
+1456,2000,West Coast,sheep,
+1457,2001,West Coast,sheep,
+1458,2002,West Coast,sheep,92508
+1459,2003,West Coast,sheep,83978
+1460,2004,West Coast,sheep,81941
+1461,2005,West Coast,sheep,74988
+1462,2006,West Coast,sheep,78067
+1463,2007,West Coast,sheep,54094
+1464,2008,West Coast,sheep,43156
+1465,2009,West Coast,sheep,42889
+1466,2010,West Coast,sheep,41523
+1467,2011,West Coast,sheep,34778
+1468,2012,West Coast,sheep,58085
+1469,2013,West Coast,sheep,32876
+1470,2014,West Coast,sheep,58642
+1471,2015,West Coast,sheep,24679
+1472,2016,West Coast,sheep,23148
+1473,1994,Canterbury,sheep,9747488
+1474,1995,Canterbury,sheep,9562261
+1475,1996,Canterbury,sheep,9370769
+1476,1997,Canterbury,sheep,
+1477,1998,Canterbury,sheep,
+1478,1999,Canterbury,sheep,9217644
+1479,2000,Canterbury,sheep,
+1480,2001,Canterbury,sheep,
+1481,2002,Canterbury,sheep,7758336
+1482,2003,Canterbury,sheep,7969929
+1483,2004,Canterbury,sheep,7499728
+1484,2005,Canterbury,sheep,7602271
+1485,2006,Canterbury,sheep,7463075
+1486,2007,Canterbury,sheep,7166822
+1487,2008,Canterbury,sheep,6063300
+1488,2009,Canterbury,sheep,5504718
+1489,2010,Canterbury,sheep,5652101
+1490,2011,Canterbury,sheep,5569215
+1491,2012,Canterbury,sheep,5348010
+1492,2013,Canterbury,sheep,5222094
+1493,2014,Canterbury,sheep,4966905
+1494,2015,Canterbury,sheep,4501137
+1495,2016,Canterbury,sheep,4584936
+1496,1994,Otago,sheep,7635968
+1497,1995,Otago,sheep,7481115
+1498,1996,Otago,sheep,7317039
+1499,1997,Otago,sheep,
+1500,1998,Otago,sheep,
+1501,1999,Otago,sheep,7569022
+1502,2000,Otago,sheep,
+1503,2001,Otago,sheep,
+1504,2002,Otago,sheep,6120918
+1505,2003,Otago,sheep,5945247
+1506,2004,Otago,sheep,5901789
+1507,2005,Otago,sheep,6185038
+1508,2006,Otago,sheep,5998440
+1509,2007,Otago,sheep,6031166
+1510,2008,Otago,sheep,5343380
+1511,2009,Otago,sheep,5281730
+1512,2010,Otago,sheep,5323860
+1513,2011,Otago,sheep,5203236
+1514,2012,Otago,sheep,5342846
+1515,2013,Otago,sheep,5325322
+1516,2014,Otago,sheep,5257716
+1517,2015,Otago,sheep,5120190
+1518,2016,Otago,sheep,4818842
+1519,1994,Southland,sheep,7850791
+1520,1995,Southland,sheep,7687777
+1521,1996,Southland,sheep,7457393
+1522,1997,Southland,sheep,
+1523,1998,Southland,sheep,
+1524,1999,Southland,sheep,6738097
+1525,2000,Southland,sheep,
+1526,2001,Southland,sheep,
+1527,2002,Southland,sheep,5950657
+1528,2003,Southland,sheep,5855296
+1529,2004,Southland,sheep,5966919
+1530,2005,Southland,sheep,5950627
+1531,2006,Southland,sheep,5928761
+1532,2007,Southland,sheep,5662387
+1533,2008,Southland,sheep,4739003
+1534,2009,Southland,sheep,4556206
+1535,2010,Southland,sheep,4597335
+1536,2011,Southland,sheep,4112930
+1537,2012,Southland,sheep,4356427
+1538,2013,Southland,sheep,4390785
+1539,2014,Southland,sheep,4299214
+1540,2015,Southland,sheep,4072964
+1541,2016,Southland,sheep,3711484
+1542,1994,Chatham Islands,sheep,103557
+1543,1995,Chatham Islands,sheep,101632
+1544,1996,Chatham Islands,sheep,99718
+1545,1997,Chatham Islands,sheep,
+1546,1998,Chatham Islands,sheep,
+1547,1999,Chatham Islands,sheep,83510
+1548,2000,Chatham Islands,sheep,
+1549,2001,Chatham Islands,sheep,
+1550,2002,Chatham Islands,sheep,56723
+1551,2003,Chatham Islands,sheep,
+1552,2004,Chatham Islands,sheep,
+1553,2005,Chatham Islands,sheep,
+1554,2006,Chatham Islands,sheep,
+1555,2007,Chatham Islands,sheep,68816
+1556,2008,Chatham Islands,sheep,64202
+1557,2009,Chatham Islands,sheep,
+1558,2010,Chatham Islands,sheep,67267
+1559,2011,Chatham Islands,sheep,62861
+1560,2012,Chatham Islands,sheep,59374
+1561,2013,Chatham Islands,sheep,66956
+1562,2014,Chatham Islands,sheep,62234
+1563,2015,Chatham Islands,sheep,73763
+1564,2016,Chatham Islands,sheep,59622
+1565,1994,Northland,deer,18141
+1566,1995,Northland,deer,15502
+1567,1996,Northland,deer,11304
+1568,1997,Northland,deer,
+1569,1998,Northland,deer,
+1570,1999,Northland,deer,27557
+1571,2000,Northland,deer,
+1572,2001,Northland,deer,
+1573,2002,Northland,deer,23412
+1574,2003,Northland,deer,18922
+1575,2004,Northland,deer,16746
+1576,2005,Northland,deer,
+1577,2006,Northland,deer,8703
+1578,2007,Northland,deer,7566
+1579,2008,Northland,deer,6564
+1580,2009,Northland,deer,5596
+1581,2010,Northland,deer,6663
+1582,2011,Northland,deer,3474
+1583,2012,Northland,deer,5158
+1584,2013,Northland,deer,4744
+1585,2014,Northland,deer,2931
+1586,2015,Northland,deer,4748
+1587,2016,Northland,deer,4824
+1588,1994,Auckland,deer,33916
+1589,1995,Auckland,deer,27579
+1590,1996,Auckland,deer,
+1591,1997,Auckland,deer,
+1592,1998,Auckland,deer,
+1593,1999,Auckland,deer,29346
+1594,2000,Auckland,deer,
+1595,2001,Auckland,deer,
+1596,2002,Auckland,deer,20259
+1597,2003,Auckland,deer,23241
+1598,2004,Auckland,deer,23483
+1599,2005,Auckland,deer,
+1600,2006,Auckland,deer,15271
+1601,2007,Auckland,deer,12304
+1602,2008,Auckland,deer,12240
+1603,2009,Auckland,deer,
+1604,2010,Auckland,deer,15987
+1605,2011,Auckland,deer,10593
+1606,2012,Auckland,deer,12647
+1607,2013,Auckland,deer,10869
+1608,2014,Auckland,deer,5595
+1609,2015,Auckland,deer,8805
+1610,2016,Auckland,deer,10124
+1611,1994,Waikato,deer,161997
+1612,1995,Waikato,deer,140868
+1613,1996,Waikato,deer,148822
+1614,1997,Waikato,deer,
+1615,1998,Waikato,deer,
+1616,1999,Waikato,deer,153651
+1617,2000,Waikato,deer,
+1618,2001,Waikato,deer,
+1619,2002,Waikato,deer,143098
+1620,2003,Waikato,deer,139824
+1621,2004,Waikato,deer,144468
+1622,2005,Waikato,deer,141515
+1623,2006,Waikato,deer,126585
+1624,2007,Waikato,deer,116554
+1625,2008,Waikato,deer,91865
+1626,2009,Waikato,deer,97508
+1627,2010,Waikato,deer,83952
+1628,2011,Waikato,deer,76961
+1629,2012,Waikato,deer,81019
+1630,2013,Waikato,deer,78947
+1631,2014,Waikato,deer,75315
+1632,2015,Waikato,deer,69525
+1633,2016,Waikato,deer,63811
+1634,1994,Bay of Plenty,deer,81873
+1635,1995,Bay of Plenty,deer,72189
+1636,1996,Bay of Plenty,deer,68180
+1637,1997,Bay of Plenty,deer,
+1638,1998,Bay of Plenty,deer,
+1639,1999,Bay of Plenty,deer,71618
+1640,2000,Bay of Plenty,deer,
+1641,2001,Bay of Plenty,deer,
+1642,2002,Bay of Plenty,deer,73027
+1643,2003,Bay of Plenty,deer,72071
+1644,2004,Bay of Plenty,deer,68044
+1645,2005,Bay of Plenty,deer,58785
+1646,2006,Bay of Plenty,deer,60163
+1647,2007,Bay of Plenty,deer,54296
+1648,2008,Bay of Plenty,deer,51995
+1649,2009,Bay of Plenty,deer,46053
+1650,2010,Bay of Plenty,deer,44893
+1651,2011,Bay of Plenty,deer,42471
+1652,2012,Bay of Plenty,deer,42156
+1653,2013,Bay of Plenty,deer,38554
+1654,2014,Bay of Plenty,deer,35251
+1655,2015,Bay of Plenty,deer,32512
+1656,2016,Bay of Plenty,deer,32580
+1657,1994,Gisborne,deer,22955
+1658,1995,Gisborne,deer,21530
+1659,1996,Gisborne,deer,22174
+1660,1997,Gisborne,deer,
+1661,1998,Gisborne,deer,
+1662,1999,Gisborne,deer,25113
+1663,2000,Gisborne,deer,
+1664,2001,Gisborne,deer,
+1665,2002,Gisborne,deer,25752
+1666,2003,Gisborne,deer,
+1667,2004,Gisborne,deer,37878
+1668,2005,Gisborne,deer,30381
+1669,2006,Gisborne,deer,27507
+1670,2007,Gisborne,deer,26694
+1671,2008,Gisborne,deer,23261
+1672,2009,Gisborne,deer,22545
+1673,2010,Gisborne,deer,15093
+1674,2011,Gisborne,deer,17196
+1675,2012,Gisborne,deer,17323
+1676,2013,Gisborne,deer,18833
+1677,2014,Gisborne,deer,17871
+1678,2015,Gisborne,deer,12925
+1679,2016,Gisborne,deer,8358
+1680,1994,Hawke's Bay,deer,118301
+1681,1995,Hawke's Bay,deer,103737
+1682,1996,Hawke's Bay,deer,102393
+1683,1997,Hawke's Bay,deer,
+1684,1998,Hawke's Bay,deer,
+1685,1999,Hawke's Bay,deer,109489
+1686,2000,Hawke's Bay,deer,
+1687,2001,Hawke's Bay,deer,
+1688,2002,Hawke's Bay,deer,126718
+1689,2003,Hawke's Bay,deer,139685
+1690,2004,Hawke's Bay,deer,147378
+1691,2005,Hawke's Bay,deer,120027
+1692,2006,Hawke's Bay,deer,106761
+1693,2007,Hawke's Bay,deer,88408
+1694,2008,Hawke's Bay,deer,84426
+1695,2009,Hawke's Bay,deer,73887
+1696,2010,Hawke's Bay,deer,66573
+1697,2011,Hawke's Bay,deer,63512
+1698,2012,Hawke's Bay,deer,69977
+1699,2013,Hawke's Bay,deer,69350
+1700,2014,Hawke's Bay,deer,53022
+1701,2015,Hawke's Bay,deer,69399
+1702,2016,Hawke's Bay,deer,63862
+1703,1994,Taranaki,deer,19024
+1704,1995,Taranaki,deer,15835
+1705,1996,Taranaki,deer,13012
+1706,1997,Taranaki,deer,
+1707,1998,Taranaki,deer,
+1708,1999,Taranaki,deer,14427
+1709,2000,Taranaki,deer,
+1710,2001,Taranaki,deer,
+1711,2002,Taranaki,deer,10762
+1712,2003,Taranaki,deer,9058
+1713,2004,Taranaki,deer,6687
+1714,2005,Taranaki,deer,4772
+1715,2006,Taranaki,deer,
+1716,2007,Taranaki,deer,4456
+1717,2008,Taranaki,deer,3524
+1718,2009,Taranaki,deer,4296
+1719,2010,Taranaki,deer,4468
+1720,2011,Taranaki,deer,5389
+1721,2012,Taranaki,deer,3756
+1722,2013,Taranaki,deer,6029
+1723,2014,Taranaki,deer,
+1724,2015,Taranaki,deer,
+1725,2016,Taranaki,deer,
+1726,1994,Manawatu-Whanganui,deer,128676
+1727,1995,Manawatu-Whanganui,deer,123866
+1728,1996,Manawatu-Whanganui,deer,130909
+1729,1997,Manawatu-Whanganui,deer,
+1730,1998,Manawatu-Whanganui,deer,
+1731,1999,Manawatu-Whanganui,deer,149948
+1732,2000,Manawatu-Whanganui,deer,
+1733,2001,Manawatu-Whanganui,deer,
+1734,2002,Manawatu-Whanganui,deer,147128
+1735,2003,Manawatu-Whanganui,deer,136232
+1736,2004,Manawatu-Whanganui,deer,139242
+1737,2005,Manawatu-Whanganui,deer,147638
+1738,2006,Manawatu-Whanganui,deer,117242
+1739,2007,Manawatu-Whanganui,deer,103908
+1740,2008,Manawatu-Whanganui,deer,84417
+1741,2009,Manawatu-Whanganui,deer,76299
+1742,2010,Manawatu-Whanganui,deer,75437
+1743,2011,Manawatu-Whanganui,deer,87969
+1744,2012,Manawatu-Whanganui,deer,74033
+1745,2013,Manawatu-Whanganui,deer,75840
+1746,2014,Manawatu-Whanganui,deer,74038
+1747,2015,Manawatu-Whanganui,deer,62298
+1748,2016,Manawatu-Whanganui,deer,47158
+1749,1994,Wellington,deer,30232
+1750,1995,Wellington,deer,27206
+1751,1996,Wellington,deer,27086
+1752,1997,Wellington,deer,
+1753,1998,Wellington,deer,
+1754,1999,Wellington,deer,26441
+1755,2000,Wellington,deer,
+1756,2001,Wellington,deer,
+1757,2002,Wellington,deer,27423
+1758,2003,Wellington,deer,25821
+1759,2004,Wellington,deer,25802
+1760,2005,Wellington,deer,
+1761,2006,Wellington,deer,22722
+1762,2007,Wellington,deer,15985
+1763,2008,Wellington,deer,16871
+1764,2009,Wellington,deer,16062
+1765,2010,Wellington,deer,18819
+1766,2011,Wellington,deer,17367
+1767,2012,Wellington,deer,13933
+1768,2013,Wellington,deer,17936
+1769,2014,Wellington,deer,20727
+1770,2015,Wellington,deer,20255
+1771,2016,Wellington,deer,17772
+1772,1994,Tasman,deer,35810
+1773,1995,Tasman,deer,33453
+1774,1996,Tasman,deer,33790
+1775,1997,Tasman,deer,
+1776,1998,Tasman,deer,
+1777,1999,Tasman,deer,35227
+1778,2000,Tasman,deer,
+1779,2001,Tasman,deer,
+1780,2002,Tasman,deer,32185
+1781,2003,Tasman,deer,33573
+1782,2004,Tasman,deer,31531
+1783,2005,Tasman,deer,31748
+1784,2006,Tasman,deer,25280
+1785,2007,Tasman,deer,20632
+1786,2008,Tasman,deer,19307
+1787,2009,Tasman,deer,13039
+1788,2010,Tasman,deer,15222
+1789,2011,Tasman,deer,13671
+1790,2012,Tasman,deer,15540
+1791,2013,Tasman,deer,14259
+1792,2014,Tasman,deer,14535
+1793,2015,Tasman,deer,12732
+1794,2016,Tasman,deer,15245
+1795,1994,Nelson,deer,343
+1796,1995,Nelson,deer,
+1797,1996,Nelson,deer,
+1798,1997,Nelson,deer,
+1799,1998,Nelson,deer,
+1800,1999,Nelson,deer,
+1801,2000,Nelson,deer,
+1802,2001,Nelson,deer,
+1803,2002,Nelson,deer,2228
+1804,2003,Nelson,deer,
+1805,2004,Nelson,deer,1041
+1806,2005,Nelson,deer,
+1807,2006,Nelson,deer,
+1808,2007,Nelson,deer,
+1809,2008,Nelson,deer,
+1810,2009,Nelson,deer,0
+1811,2010,Nelson,deer,
+1812,2011,Nelson,deer,
+1813,2012,Nelson,deer,
+1814,2013,Nelson,deer,0
+1815,2014,Nelson,deer,0
+1816,2015,Nelson,deer,0
+1817,2016,Nelson,deer,0
+1818,1994,Marlborough,deer,18764
+1819,1995,Marlborough,deer,16552
+1820,1996,Marlborough,deer,16830
+1821,1997,Marlborough,deer,
+1822,1998,Marlborough,deer,
+1823,1999,Marlborough,deer,21110
+1824,2000,Marlborough,deer,
+1825,2001,Marlborough,deer,
+1826,2002,Marlborough,deer,22842
+1827,2003,Marlborough,deer,
+1828,2004,Marlborough,deer,20618
+1829,2005,Marlborough,deer,
+1830,2006,Marlborough,deer,15868
+1831,2007,Marlborough,deer,
+1832,2008,Marlborough,deer,
+1833,2009,Marlborough,deer,8099
+1834,2010,Marlborough,deer,8562
+1835,2011,Marlborough,deer,
+1836,2012,Marlborough,deer,
+1837,2013,Marlborough,deer,8072
+1838,2014,Marlborough,deer,7109
+1839,2015,Marlborough,deer,7124
+1840,2016,Marlborough,deer,
+1841,1994,West Coast,deer,25998
+1842,1995,West Coast,deer,
+1843,1996,West Coast,deer,
+1844,1997,West Coast,deer,
+1845,1998,West Coast,deer,
+1846,1999,West Coast,deer,34244
+1847,2000,West Coast,deer,
+1848,2001,West Coast,deer,
+1849,2002,West Coast,deer,33262
+1850,2003,West Coast,deer,35487
+1851,2004,West Coast,deer,43777
+1852,2005,West Coast,deer,48074
+1853,2006,West Coast,deer,48043
+1854,2007,West Coast,deer,41755
+1855,2008,West Coast,deer,34955
+1856,2009,West Coast,deer,40162
+1857,2010,West Coast,deer,32325
+1858,2011,West Coast,deer,30414
+1859,2012,West Coast,deer,34176
+1860,2013,West Coast,deer,32726
+1861,2014,West Coast,deer,31428
+1862,2015,West Coast,deer,29273
+1863,2016,West Coast,deer,28825
+1864,1994,Canterbury,deer,258980
+1865,1995,Canterbury,deer,277248
+1866,1996,Canterbury,deer,278082
+1867,1997,Canterbury,deer,
+1868,1998,Canterbury,deer,
+1869,1999,Canterbury,deer,432737
+1870,2000,Canterbury,deer,
+1871,2001,Canterbury,deer,
+1872,2002,Canterbury,deer,411581
+1873,2003,Canterbury,deer,439501
+1874,2004,Canterbury,deer,453336
+1875,2005,Canterbury,deer,482605
+1876,2006,Canterbury,deer,465055
+1877,2007,Canterbury,deer,394833
+1878,2008,Canterbury,deer,340882
+1879,2009,Canterbury,deer,323257
+1880,2010,Canterbury,deer,319907
+1881,2011,Canterbury,deer,305960
+1882,2012,Canterbury,deer,291783
+1883,2013,Canterbury,deer,287603
+1884,2014,Canterbury,deer,253234
+1885,2015,Canterbury,deer,243121
+1886,2016,Canterbury,deer,232947
+1887,1994,Otago,deer,91414
+1888,1995,Otago,deer,90551
+1889,1996,Otago,deer,99026
+1890,1997,Otago,deer,
+1891,1998,Otago,deer,
+1892,1999,Otago,deer,151052
+1893,2000,Otago,deer,
+1894,2001,Otago,deer,
+1895,2002,Otago,deer,196703
+1896,2003,Otago,deer,195306
+1897,2004,Otago,deer,206434
+1898,2005,Otago,deer,198704
+1899,2006,Otago,deer,192790
+1900,2007,Otago,deer,188103
+1901,2008,Otago,deer,166856
+1902,2009,Otago,deer,166424
+1903,2010,Otago,deer,168696
+1904,2011,Otago,deer,161911
+1905,2012,Otago,deer,153224
+1906,2013,Otago,deer,143235
+1907,2014,Otago,deer,138933
+1908,2015,Otago,deer,126191
+1909,2016,Otago,deer,112240
+1910,1994,Southland,deer,184512
+1911,1995,Southland,deer,186216
+1912,1996,Southland,deer,190630
+1913,1997,Southland,deer,
+1914,1998,Southland,deer,
+1915,1999,Southland,deer,393371
+1916,2000,Southland,deer,
+1917,2001,Southland,deer,
+1918,2002,Southland,deer,351558
+1919,2003,Southland,deer,356948
+1920,2004,Southland,deer,390423
+1921,2005,Southland,deer,371374
+1922,2006,Southland,deer,347537
+1923,2007,Southland,deer,307524
+1924,2008,Southland,deer,270072
+1925,2009,Southland,deer,242288
+1926,2010,Southland,deer,245975
+1927,2011,Southland,deer,243877
+1928,2012,Southland,deer,238402
+1929,2013,Southland,deer,221388
+1930,2014,Southland,deer,223025
+1931,2015,Southland,deer,197881
+1932,2016,Southland,deer,185664
+1933,1994,Chatham Islands,deer,173
+1934,1995,Chatham Islands,deer,
+1935,1996,Chatham Islands,deer,
+1936,1997,Chatham Islands,deer,
+1937,1998,Chatham Islands,deer,
+1938,1999,Chatham Islands,deer,
+1939,2000,Chatham Islands,deer,
+1940,2001,Chatham Islands,deer,
+1941,2002,Chatham Islands,deer,0
+1942,2003,Chatham Islands,deer,
+1943,2004,Chatham Islands,deer,
+1944,2005,Chatham Islands,deer,
+1945,2006,Chatham Islands,deer,
+1946,2007,Chatham Islands,deer,0
+1947,2008,Chatham Islands,deer,0
+1948,2009,Chatham Islands,deer,0
+1949,2010,Chatham Islands,deer,
+1950,2011,Chatham Islands,deer,0
+1951,2012,Chatham Islands,deer,0
+1952,2013,Chatham Islands,deer,0
+1953,2014,Chatham Islands,deer,0
+1954,2015,Chatham Islands,deer,0
+1955,2016,Chatham Islands,deer,
+1956,1994,Total New Zealand,dairy,3839184
+1957,1995,Total New Zealand,dairy,4089817
+1958,1996,Total New Zealand,dairy,4165098
+1959,1997,Total New Zealand,dairy,
+1960,1998,Total New Zealand,dairy,
+1961,1999,Total New Zealand,dairy,4316409
+1962,2000,Total New Zealand,dairy,
+1963,2001,Total New Zealand,dairy,
+1964,2002,Total New Zealand,dairy,5161589
+1965,2003,Total New Zealand,dairy,5101603
+1966,2004,Total New Zealand,dairy,5152492
+1967,2005,Total New Zealand,dairy,5087176
+1968,2006,Total New Zealand,dairy,5169557
+1969,2007,Total New Zealand,dairy,5260850
+1970,2008,Total New Zealand,dairy,5578440
+1971,2009,Total New Zealand,dairy,5860776
+1972,2010,Total New Zealand,dairy,5915452
+1973,2011,Total New Zealand,dairy,6174503
+1974,2012,Total New Zealand,dairy,6445681
+1975,2013,Total New Zealand,dairy,6483600
+1976,2014,Total New Zealand,dairy,6698326
+1977,2015,Total New Zealand,dairy,6485535
+1978,2016,Total New Zealand,dairy,6618800
+1979,2017,Total New Zealand,dairy,6474507
+1980,1994,Total New Zealand,beef,5047848
+1981,1995,Total New Zealand,beef,5182508
+1982,1996,Total New Zealand,beef,4852179
+1983,1997,Total New Zealand,beef,
+1984,1998,Total New Zealand,beef,
+1985,1999,Total New Zealand,beef,4643705
+1986,2000,Total New Zealand,beef,
+1987,2001,Total New Zealand,beef,
+1988,2002,Total New Zealand,beef,4491281
+1989,2003,Total New Zealand,beef,4626617
+1990,2004,Total New Zealand,beef,4447400
+1991,2005,Total New Zealand,beef,4423626
+1992,2006,Total New Zealand,beef,4439136
+1993,2007,Total New Zealand,beef,4393617
+1994,2008,Total New Zealand,beef,4136872
+1995,2009,Total New Zealand,beef,4100718
+1996,2010,Total New Zealand,beef,3948520
+1997,2011,Total New Zealand,beef,3846414
+1998,2012,Total New Zealand,beef,3734412
+1999,2013,Total New Zealand,beef,3698522
+2000,2014,Total New Zealand,beef,3669862
+2001,2015,Total New Zealand,beef,3547228
+2002,2016,Total New Zealand,beef,3533054
+2003,2017,Total New Zealand,beef,3607571
+2004,1994,Total New Zealand,total_cattle,8887032
+2005,1995,Total New Zealand,total_cattle,9272325
+2006,1996,Total New Zealand,total_cattle,9017277
+2007,1997,Total New Zealand,total_cattle,
+2008,1998,Total New Zealand,total_cattle,
+2009,1999,Total New Zealand,total_cattle,8960114
+2010,2000,Total New Zealand,total_cattle,
+2011,2001,Total New Zealand,total_cattle,
+2012,2002,Total New Zealand,total_cattle,9652870
+2013,2003,Total New Zealand,total_cattle,9728220
+2014,2004,Total New Zealand,total_cattle,9599892
+2015,2005,Total New Zealand,total_cattle,9510802
+2016,2006,Total New Zealand,total_cattle,9608693
+2017,2007,Total New Zealand,total_cattle,9654467
+2018,2008,Total New Zealand,total_cattle,9715312
+2019,2009,Total New Zealand,total_cattle,9961494
+2020,2010,Total New Zealand,total_cattle,9863972
+2021,2011,Total New Zealand,total_cattle,10020917
+2022,2012,Total New Zealand,total_cattle,10180093
+2023,2013,Total New Zealand,total_cattle,10182122
+2024,2014,Total New Zealand,total_cattle,10368188
+2025,2015,Total New Zealand,total_cattle,10032763
+2026,2016,Total New Zealand,total_cattle,10151854
+2027,2017,Total New Zealand,total_cattle,10082078
+2028,1994,Total New Zealand,sheep,49466054
+2029,1995,Total New Zealand,sheep,48816271
+2030,1996,Total New Zealand,sheep,47393907
+2031,1997,Total New Zealand,sheep,
+2032,1998,Total New Zealand,sheep,
+2033,1999,Total New Zealand,sheep,45679891
+2034,2000,Total New Zealand,sheep,
+2035,2001,Total New Zealand,sheep,
+2036,2002,Total New Zealand,sheep,39571837
+2037,2003,Total New Zealand,sheep,39552113
+2038,2004,Total New Zealand,sheep,39271137
+2039,2005,Total New Zealand,sheep,39879668
+2040,2006,Total New Zealand,sheep,40081594
+2041,2007,Total New Zealand,sheep,38460477
+2042,2008,Total New Zealand,sheep,34087864
+2043,2009,Total New Zealand,sheep,32383589
+2044,2010,Total New Zealand,sheep,32562612
+2045,2011,Total New Zealand,sheep,31132329
+2046,2012,Total New Zealand,sheep,31262715
+2047,2013,Total New Zealand,sheep,30786761
+2048,2014,Total New Zealand,sheep,29803402
+2049,2015,Total New Zealand,sheep,29120827
+2050,2016,Total New Zealand,sheep,27583673
+2051,2017,Total New Zealand,sheep,27369128
+2052,1994,Total New Zealand,deer,1231109
+2053,1995,Total New Zealand,deer,1178704
+2054,1996,Total New Zealand,deer,1192138
+2055,1997,Total New Zealand,deer,
+2056,1998,Total New Zealand,deer,
+2057,1999,Total New Zealand,deer,1676788
+2058,2000,Total New Zealand,deer,
+2059,2001,Total New Zealand,deer,
+2060,2002,Total New Zealand,deer,1647938
+2061,2003,Total New Zealand,deer,1689444
+2062,2004,Total New Zealand,deer,1756888
+2063,2005,Total New Zealand,deer,1705084
+2064,2006,Total New Zealand,deer,1586918
+2065,2007,Total New Zealand,deer,1396023
+2066,2008,Total New Zealand,deer,1223324
+2067,2009,Total New Zealand,deer,1145858
+2068,2010,Total New Zealand,deer,1122695
+2069,2011,Total New Zealand,deer,1088533
+2070,2012,Total New Zealand,deer,1060694
+2071,2013,Total New Zealand,deer,1028382
+2072,2014,Total New Zealand,deer,958219
+2073,2015,Total New Zealand,deer,900100
+2074,2016,Total New Zealand,deer,834608
+2075,2017,Total New Zealand,deer,849514
