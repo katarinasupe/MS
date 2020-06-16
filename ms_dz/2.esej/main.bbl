@@ -1,0 +1,227 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{rand1}{online}{}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \verb{urlraw}
+      \verb https://www.random.org/randomness/
+      \endverb
+      \verb{url}
+      \verb https://www.random.org/randomness/
+      \endverb
+    \endentry
+    \entry{rand2}{online}{}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \verb{urlraw}
+      \verb http://faculty.rhodes.edu/wetzel/random/intro.html
+      \endverb
+      \verb{url}
+      \verb http://faculty.rhodes.edu/wetzel/random/intro.html
+      \endverb
+    \endentry
+    \entry{rand3}{online}{}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Pseudorandom_number_generator
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Pseudorandom_number_generator
+      \endverb
+    \endentry
+    \entry{rand4}{online}{}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Middle-square_method
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Middle-square_method
+      \endverb
+    \endentry
+    \entry{rand5}{online}{}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \verb{urlraw}
+      \verb http://sigurnost.zemris.fer.hr/random/2001_juric/
+      \endverb
+      \verb{url}
+      \verb http://sigurnost.zemris.fer.hr/random/2001_juric/
+      \endverb
+    \endentry
+    \entry{rand6}{online}{}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \verb{urlraw}
+      \verb http://www.scholarpedia.org/article/Algorithmic_complexity
+      \endverb
+      \verb{url}
+      \verb http://www.scholarpedia.org/article/Algorithmic_complexity
+      \endverb
+    \endentry
+    \entry{article}{article}{}
+      \name{author}{1}{}{%
+        {{hash=82bc76633c291318e8e1c4e002026102}{%
+           family={Brent},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{82bc76633c291318e8e1c4e002026102}
+      \strng{fullhash}{82bc76633c291318e8e1c4e002026102}
+      \strng{bibnamehash}{82bc76633c291318e8e1c4e002026102}
+      \strng{authorbibnamehash}{82bc76633c291318e8e1c4e002026102}
+      \strng{authornamehash}{82bc76633c291318e8e1c4e002026102}
+      \strng{authorfullhash}{82bc76633c291318e8e1c4e002026102}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Statistical Software}
+      \field{month}{07}
+      \field{title}{Note on Marsaglia's Xorshift Random Number Generators}
+      \field{volume}{11}
+      \field{year}{2004}
+      \verb{doi}
+      \verb 10.18637/jss.v011.i05
+      \endverb
+    \endentry
+    \entry{book}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e671c51dd694d63c3d0505ed5b23a06c}{%
+           family={Chaitin},
+           familyi={C\bibinitperiod},
+           given={Gregory\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag London Ltd.}%
+      }
+      \strng{namehash}{e671c51dd694d63c3d0505ed5b23a06c}
+      \strng{fullhash}{e671c51dd694d63c3d0505ed5b23a06c}
+      \strng{bibnamehash}{e671c51dd694d63c3d0505ed5b23a06c}
+      \strng{authorbibnamehash}{e671c51dd694d63c3d0505ed5b23a06c}
+      \strng{authornamehash}{e671c51dd694d63c3d0505ed5b23a06c}
+      \strng{authorfullhash}{e671c51dd694d63c3d0505ed5b23a06c}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-4471-1085-9}
+      \field{title}{Exploring Randomness}
+      \field{year}{2001}
+    \endentry
+    \entry{mastersthesis1}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=7678c449ae452cff6d80f89ff66ce0af}{%
+           family={Mendler},
+           familyi={M\bibinitperiod},
+           given={Maja},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Sveučilišta J. J. Strossmayera u Osijeku}%
+      }
+      \strng{namehash}{7678c449ae452cff6d80f89ff66ce0af}
+      \strng{fullhash}{7678c449ae452cff6d80f89ff66ce0af}
+      \strng{bibnamehash}{7678c449ae452cff6d80f89ff66ce0af}
+      \strng{authorbibnamehash}{7678c449ae452cff6d80f89ff66ce0af}
+      \strng{authornamehash}{7678c449ae452cff6d80f89ff66ce0af}
+      \strng{authorfullhash}{7678c449ae452cff6d80f89ff66ce0af}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Generatori slučajnih brojeva i njihova primjena u kriptografskim sustavima}
+      \field{type}{mathesis}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://repozitorij.etfos.hr/islandora/object/etfos%3A491/datastream/PDF/view
+      \endverb
+      \verb{url}
+      \verb https://repozitorij.etfos.hr/islandora/object/etfos%3A491/datastream/PDF/view
+      \endverb
+    \endentry
+    \entry{mastersthesis2}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=6f36b3a575ba8814f6db08dec3961cb1}{%
+           family={Skočić},
+           familyi={S\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Sve\-uči\-li\-šte u Zagrebu}%
+      }
+      \strng{namehash}{6f36b3a575ba8814f6db08dec3961cb1}
+      \strng{fullhash}{6f36b3a575ba8814f6db08dec3961cb1}
+      \strng{bibnamehash}{6f36b3a575ba8814f6db08dec3961cb1}
+      \strng{authorbibnamehash}{6f36b3a575ba8814f6db08dec3961cb1}
+      \strng{authornamehash}{6f36b3a575ba8814f6db08dec3961cb1}
+      \strng{authorfullhash}{6f36b3a575ba8814f6db08dec3961cb1}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Generiranje pseudoslučajnih brojeva i testovi slučajnosti}
+      \field{type}{mathesis}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://repozitorij.pmf.unizg.hr/islandora/object/pmf%3A3861/datastream/PDF/view
+      \endverb
+      \verb{url}
+      \verb https://repozitorij.pmf.unizg.hr/islandora/object/pmf%3A3861/datastream/PDF/view
+      \endverb
+    \endentry
+    \entry{booklet}{booklet}{}
+      \name{author}{1}{}{%
+        {{hash=6b468fc48a88f334e99239173d016cd5}{%
+           family={Urbiha},
+           familyi={U\bibinitperiod},
+           given={Igor},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{6b468fc48a88f334e99239173d016cd5}
+      \strng{fullhash}{6b468fc48a88f334e99239173d016cd5}
+      \strng{bibnamehash}{6b468fc48a88f334e99239173d016cd5}
+      \strng{authorbibnamehash}{6b468fc48a88f334e99239173d016cd5}
+      \strng{authornamehash}{6b468fc48a88f334e99239173d016cd5}
+      \strng{authorfullhash}{6b468fc48a88f334e99239173d016cd5}
+      \field{sortinit}{U}
+      \field{sortinithash}{36a2444f5238e0dcf4bb59704df6624d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Matematičko-fizički list, LXII2}
+      \field{title}{Generiranje niza pseudoslučajnih brojeva}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb https://bib.irb.hr/datoteka/554519.MFL_2010-2011_2_Generiranje_niza_pseudoslucajnih_brojeva.pdf
+      \endverb
+      \verb{url}
+      \verb https://bib.irb.hr/datoteka/554519.MFL_2010-2011_2_Generiranje_niza_pseudoslucajnih_brojeva.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

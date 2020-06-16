@@ -1,0 +1,127 @@
+\documentclass[10pt]{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage[croatian]{babel}
+\usepackage{csquotes}
+\MakeOuterQuote{"}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage[unicode]{hyperref}
+\usepackage{thmtools}
+\declaretheorem{teorem}
+\declaretheorem[style=definition,sibling=teorem]{definicija}
+\declaretheorem[style=remark,qed=$\|$,sibling=teorem]{primjer}
+\declaretheorem[style=remark,sibling=teorem]{napomena}
+\declaretheorem[style=definition]{zadatak}
+\newcommand{\D}{\,\mathrm d}
+\usepackage{marvosym}
+
+\begin{document}
+\title{Druga \LaTeX-zadaća}
+\author{Katarina Šupe}
+\date{Zagreb, \today}
+\maketitle
+\tableofcontents
+\section{Limes niza u \texorpdfstring{$\mathbb R$}{R}}
+\begin{definicija}\label{tm:convergence}
+Niz realnih brojeva $(a_n)_n$ \emph{konvergira} ili teži k realnom broju $a \in \mathbb R$ ako za svaki otvoreni interval polumjera $\varepsilon$ oko točke $a$ sadrži gotovo sve članove niza, tj.
+\begin{equation}\label{eq:limit}
+    (\forall \varepsilon > 0)(\exists n_{\varepsilon} \in \mathbb N)(\forall n \in \mathbb N) \left( ( n > n_{\varepsilon} ) \Rightarrow (|a_n -a| < \varepsilon ) \right) \tag{\Coffeecup}
+\end{equation}
+Tada $a$ zovemo \emph{granična vrijednost} ili \emph{limes} niza $(a_n)_n$ i pišemo $a = \lim_{n \to \infty} a_n$ ili $a = \lim_n a_n$. Ako niz ne konvergira, onda kažemo da \emph{divergira}.
+\end{definicija}
+\begin{teorem} 
+Za konvergentan niz vrijede sljedeće tvrdnje:
+\begin{enumerate}
+    \item Konvergentan niz u $\mathbb R$ ima samo jednu graničnu vrijednost.
+    \item Konvergentan niz u $\mathbb R$ je ograničen.
+\end{enumerate}
+\end{teorem}
+\begin{proof}
+\begin{enumerate}
+\item Pretpostavimo da konvergentan niz $(a_n)_n$ ima dvije granične vrije\-dno\-sti $a,b \in \mathbb R$, $a \neq b$. Tada bi za $\varepsilon = |a-b|>0$ postojali $n_a,n_b \in \mathbb N$ takvi da vrijedi
+\begin{align*}
+(n>n_a) &\Rightarrow \left(|a_n - a| < \frac{\varepsilon}{2} \right) \text{ i}\\
+(n>n_b) &\Rightarrow \left(|a_n - b| < \frac{\varepsilon}{2} \right)
+\end{align*}
+Sada za $n_{\varepsilon} = \max\{n_a, n_b\}$ imamo
+\[
+(n>n_\varepsilon) \Rightarrow \left(|a-b| \leq |a-a_n| + |a_n - b| < \frac{\varepsilon}{2} + \frac{\varepsilon}{2} = \varepsilon = |a-b| \right)
+\]
+što je očita neistina. Dakle, limes mora biti jedinstven. 
+\item U formuli~\eqref{eq:limit} uzmimo $\varepsilon = 1$, pa postoji $n_{\varepsilon} \in \mathbb N$ tako da $(n>n_{\varepsilon}) \Rightarrow (|a_n - a| <1)$. Sada za $n>n_{\varepsilon}$ imamo 
+\[
+|a_n| \leq |a_n - a| + |a| \leq 1 + |a|
+\]
+Neka je $M = \max\{|a_1|,\dotsc, |a_{n_{\varepsilon}}|, 1 + |a| \}$. Tada vrijedi 
+\[
+|a_n|\leq M,\text{ za sve } n \in \mathbb N,
+\]
+tj. niz je ograničen.
+\end{enumerate}
+\end{proof}
+%
+\section{Derivacija}
+\begin{definicija}\label{tm:derivation}
+Kažemo da je funkcija  $f\colon I\to \mathbb R$ diferencijabilna ili derivabilna u točki $c$ otvorenog intervala $I \subseteq \mathbb R$, ako postoji $\lim_{x \to c} \frac{f(x) - f(c)}{x-c}$. Taj broj zovemo \emph{derivacija} (izvod) funkcije $f$ u točki $c$ i pišemo 
+\begin{equation}
+f'(c) = \lim_{x \to c} \frac{f(x) - f(c)}{x-c}
+\end{equation}
+\end{definicija}
+\begin{primjer}
+Koristeći definiciju~\ref{tm:derivation} nađi derivaciju konstantne funkcije $f(x) = \alpha$, $\forall x \in \mathbb R$ u točki $c \in \mathbb R$.
+Vrijedi
+\[
+f'(c) = \lim_{x \to c} \frac{f(x) - f(c)}{x-c} = \lim_{x\to c} \frac{\alpha - \alpha}{x-c} = 0
+\]
+$\leadsto$ funkcija $f$ ima derivaciju $0$ u svim realnim brojevima.
+\end{primjer}
+%
+\section{Riemannov Integral}
+\begin{definicija}
+Broj $\mathcal{I}_*$ zovemo \emph{donji Riemannov integral} funckije $f$ na segmentu $[a,b]$, a broj $\mathcal{I}^*$ zovemo \emph{gornji Riemannov integral} funkcije $f$ na segmentu $[a,b]$. 
+\end{definicija}
+\begin{definicija}
+Za funkciju $f \colon [a,b] \to \mathbb R$ ograničenu na segmentu $[a,b]$ kažemo da je \emph{integrabilna u Riemannovom smislu} ili \emph{R-integrabilna} na segmentu $[a,b]$ ako je
+\begin{equation}
+\mathcal{I}_*(f;a,b) = \mathcal{I}^*(f;a,b) 
+\end{equation}
+Tada se broj $\mathcal{I} = \mathcal{I}_* = \mathcal{I}^* $ naziva \emph{integral} ili \emph{R-integral} funkcije $f$ na segmentu $[a,b]$ i označava jednom od sljedećih oznaka
+\begin{equation}
+\mathcal{I} = \int_{[a,b]} f(t)\D t = \int_a^b\!f(x)\,\D x = \int_{[a,b]} f = \int\limits_a^b\,f
+\end{equation}
+\end{definicija}
+\section{Kvadratna funkcija}
+\begin{definicija}
+Neka su $a,b,c \in \mathbb R$, $a \neq 0$. \emph{Kvadratna funkcija} je funkcija $f \colon \mathbb R \to \mathbb R$ zadana formulom $f(x) = ax^2 + bx + c$. 
+\end{definicija}
+Nadopunjavanjem do potpunog kvadrata dolazimo do formule koja određuje nul\-to\-čke kvadratne funkcije
+\begin{equation}
+x_{1,2} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+\end{equation}
+\begin{napomena}
+Kvadratna jednadžba se može shvatiti kao poseban slučaj kvadratne funkcije $y = f(x)$ za vrijednost funkcije $y=0$, gdje tada rješenja kvadratne jednadžbe predstavljaju nutočke kvadratne funkcije. 
+\end{napomena}
+%
+\section{Domaća zadaća}
+\begin{zadatak}
+Matematičkom indukcijom dokažite
+\[
+1+2+2^2+\dotsb+2^n = 2^{n+1} -1
+\]
+za svaki prirodan broj $n$. Nadalje, dokažite da za dani $x \neq 1$ vrijedi
+\[
+1+x+x^2+x+\dotsb+x^n = \frac{x^{n+1} -1}{x-1}
+\]
+\end{zadatak}
+\begin{zadatak}
+Neka su $a,b,c,d,k,l \in \mathbb Z$, te neka je $p$ prost broj. Pokažite da sustav kongruencija ima jedinstveno rješenje $(x,y)\in\{1,2,\dotsc,p\}\times\{1,2,\dotsc,p\}$ ako i samo ako za determinantu sustava vrijedi $\left|\begin{array}{cc} 
+a & b \\ 
+c & d 
+\end{array}\right| \not \equiv 0\,(\text{mod } p)$.
+\end{zadatak}
+\section{Literatura}
+\url{https://web.math.pmf.unizg.hr/~guljas/skripte/MATANALuR.pdf}\\
+\url{https://web.math.pmf.unizg.hr/nastava/em/EM1/kolokviji/EM1-kol2.pdf}\\
+\url{https://web.math.pmf.unizg.hr/~gmuic/predavanja/uum.pdf}\\
+\url{https://hr.wikipedia.org/wiki/Kvadratna_jednad%C5%BEba}
+\end{document}
+

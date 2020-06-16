@@ -1,0 +1,16 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {croatian}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Uvod}{2}{section.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Generiranje niza slu\IeC {\v c}ajnih brojeva}{2}{section.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Metoda srednjih kvadrata}{3}{subsection.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Linearni posmi\IeC {\v c}ni generatori}{3}{subsection.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}Usporedba \emph {PRNG} i \emph {TRNG}}{5}{subsection.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Primjena generatora slu\IeC {\v c}ajnih brojeva}{6}{section.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Zaklju\IeC {\v c}ak}{6}{section.4}

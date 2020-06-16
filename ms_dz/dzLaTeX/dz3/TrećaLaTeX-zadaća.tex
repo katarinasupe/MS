@@ -1,0 +1,111 @@
+\documentclass[12pt]{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage[croatian]{babel}
+\usepackage{csquotes}
+\MakeOuterQuote{"}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage[unicode]{hyperref}
+\usepackage{thmtools}
+\declaretheorem{teorem}
+\declaretheorem[style=definition]{zadatak}
+\usepackage{graphicx}
+\newcommand{\norm}[1]{\left\|#1\right\|}
+% w' mi se ljepše renderira s dodanim razmakom, pa sam napravila naredbu takvu da ne moram dodavati razmak svaki put kad pišem w'
+\newcommand{\tick}[1]{#1\,'}
+
+
+\begin{document}
+\title{Treća LaTeX-zadaća}
+\author{Katarina Šupe}
+\date{Zagreb, \today}
+\maketitle
+\tableofcontents
+\section{Teorem, matrica, tablica i Sunce}
+\begin{teorem}[o najboljoj aproksimaciji]\label{tm:aproksimacija}
+Neka je $W$ potprostor unitarnog prostora $V$ te neka je $v = w + u$, gdje su $w\in W$ te $u \in W^{\perp}$. Tada vrijedi: 
+\[
+\norm{v-w} < \norm{v-\tick{w}}
+\]
+za svaki $\tick{w}\in W$ takav da je $\tick{w} \neq w$.
+\end{teorem}
+\begin{proof}
+Po definiciji ortogonalne projekcije imamo $v-w \perp W$. Kako je $w-\tick{w} \in W$, to je $v-w \perp w-\tick{w}$. Također, za $\tick{w} \neq w$ imamo $\norm{w-\tick{w}}>0$. Stoga možemo primijeniti Pitagorin poučak:
+\[
+\norm{v-\tick{w}}^2 = \norm{(v-w) + (w-\tick{w})}^2 = \norm{v-w}^2 + \norm{w-\tick{w}}^2 > \norm{v-w}^2\text.\qedhere
+\]
+\end{proof}
+
+Glavni \textsl{goal} nam je napisati riječ na engleskom jeziku u drukčijem fontu. Osim toga, \emph{ne zaboravimo naglasiti dio teksta}. Povrh svega, najvažnije je da je skup $\mathbb{N}$ skup prirodnih brojeva. 
+
+\begin{equation}\label{eq:Vandermonde}
+V=\begin{bmatrix}
+1 & \alpha_1 & {\alpha_1}^2 & \cdots & {\alpha_1}^{n-1} \\
+1 & \alpha_2 & {\alpha_2}^2 & \cdots & {\alpha_2}^{n-1} \\
+1 & \alpha_3 & {\alpha_3}^2 & \cdots & {\alpha_3}^{n-1} \\
+\vdots &\vdots & \vdots & \ddots & \vdots \\
+1 & \alpha_m & {\alpha_m}^2 & \cdots & {\alpha_m}^{n-1} \\
+\end{bmatrix}
+\end{equation}
+Matrica~\eqref{eq:Vandermonde} je Vandermondeova matrica.
+\begin{table}[ht]
+\centering
+\begin{tabular}{llll}
+   A & B & C & D \\ \hline
+\multicolumn{3}{l}{tri stupca} & 1\\
+   2 & 3 & 4 & 5 \\
+   6 & 7 & 8 & 9
+\end{tabular}
+\end{table}
+
+\begin{figure}[ht]
+\caption{Sunce}
+\begin{center}
+\includegraphics[scale=0.1]{sunce}
+\end{center}
+\label{fig:sunce} 
+\end{figure}
+
+\section{Biološka klasifikacija}
+\begin{itemize}
+\item[Vrsta] je osnovna jedinica biološke raznovrsnosti.
+\item[Rod] je grupa vrsta živih bića, fosilnih organizama i virusa.
+\item[Porodica] predstavlja taksonomski rang između reda i roda. Porodica obično uključuje više rodova, a više porodica čini red.
+\item[Red] predstavlja taksonomsku jedinicu koja se nalazi između razreda i porodice.
+\item[Razred] se nalazi između koljena i reda.
+\item[Koljeno] se nalazi između carstva i razreda.
+\item[Carstvo] je dugo vremena bilo najviša kategorija razvrstavanja živih organizama. 
+\item[Domena] je najviša kategorija klasificiranja živih bića (\textsl{Carl R. Woese}).
+\end{itemize}
+
+Većina hijerarhijskih stepenica dalje se dijeli:
+\begin{enumerate}
+\item Razed
+    \begin{enumerate}
+        \item podrazred
+    \end{enumerate}
+\item Koljeno
+\begin{enumerate}
+    \item podkoljeno
+\end{enumerate}
+\item [$\vdots$]
+\end{enumerate}
+
+\section{\LaTeX{} provjera}
+\begin{zadatak}
+Pokušajte rekreirati tablicu: 
+\end{zadatak}
+\begin{table}[h]
+\begin{tabular}{|l|l|l|l|}
+\hline
+\multicolumn{4}{|l|}{$1+x+\dotsb+x^n$}\\ \hline
+\multicolumn{2}{|l|}{$\dotsc \vdots$} & 
+\multicolumn{2}{l|}{$\xi = \bigstar$}\\ \hline
+$\mathbb N/_\sim$ & \multicolumn{3}{l|}{\emph{jako važno!}} \\ \hline
+\end{tabular}
+\end{table}
+
+\section{Literatura}
+\url{https://hr.wikipedia.org/wiki/Sistematika}\\
+\url{https://web.math.pmf.unizg.hr/~gmuic/predavanja/vp.pdf}
+\end{document}
+
